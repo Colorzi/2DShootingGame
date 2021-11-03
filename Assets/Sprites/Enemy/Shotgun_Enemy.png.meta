@@ -1,0 +1,6643 @@
+fileFormatVersion: 2
+guid: 6809d5ed18ef4d540be6e3027514750c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4039138581094093584
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_0
+  - first:
+      213: -4711718552175833074
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_1
+  - first:
+      213: -4507329800608471123
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_2
+  - first:
+      213: -2830481586259815691
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_3
+  - first:
+      213: 7342443475809841435
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_4
+  - first:
+      213: 5056858969510047799
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_5
+  - first:
+      213: 2095761714369509004
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_6
+  - first:
+      213: 490474528384287658
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_7
+  - first:
+      213: 5908955853061902270
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_8
+  - first:
+      213: -8376241120703655700
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_9
+  - first:
+      213: 8141725943998803495
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_10
+  - first:
+      213: 447499152608853179
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_11
+  - first:
+      213: -8074179407285728414
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_12
+  - first:
+      213: 7619660985232989566
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_13
+  - first:
+      213: 237534208480190252
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_14
+  - first:
+      213: -4131727194699634610
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_15
+  - first:
+      213: -3296998138868799358
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_16
+  - first:
+      213: -6145754151023671992
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_17
+  - first:
+      213: -6059854390304264285
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_18
+  - first:
+      213: 6013483959572144304
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_19
+  - first:
+      213: 2134775781362058608
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_20
+  - first:
+      213: -643476947401303114
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_21
+  - first:
+      213: -6514560668686535674
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_22
+  - first:
+      213: -562121415158188375
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_23
+  - first:
+      213: 1202560913721986414
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_24
+  - first:
+      213: 6700479104408326047
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_25
+  - first:
+      213: 5297921428726861760
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_26
+  - first:
+      213: -8590729613468907972
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_27
+  - first:
+      213: 5400291909733711138
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_28
+  - first:
+      213: 8795317528265671303
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_29
+  - first:
+      213: -3766706222340265308
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_30
+  - first:
+      213: 1454590953732395191
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_31
+  - first:
+      213: -3585611241283201471
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_32
+  - first:
+      213: -2648250636024624389
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_33
+  - first:
+      213: 1769814975318293218
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_34
+  - first:
+      213: 5631364590273530690
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_35
+  - first:
+      213: -5549499457089670841
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_36
+  - first:
+      213: -8436623662706186583
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_37
+  - first:
+      213: 990636215244301045
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_38
+  - first:
+      213: -2767240884189875379
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_39
+  - first:
+      213: -5915850553896222267
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_40
+  - first:
+      213: -5933015384167388353
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_41
+  - first:
+      213: 885988448799180133
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_42
+  - first:
+      213: 8763723545072287658
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_43
+  - first:
+      213: -4381526330159780205
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_44
+  - first:
+      213: 5779964657014289006
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_45
+  - first:
+      213: 1128802099188852825
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_46
+  - first:
+      213: -6815876143747128425
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_47
+  - first:
+      213: -7824977075224199381
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_48
+  - first:
+      213: -6379253500855433207
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_49
+  - first:
+      213: 3951300020537536399
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_50
+  - first:
+      213: 6115952342809854771
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_51
+  - first:
+      213: -7768305101769126715
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_52
+  - first:
+      213: 1482262232191269177
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_53
+  - first:
+      213: -3542148627690041348
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_54
+  - first:
+      213: 7415526612022419229
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_55
+  - first:
+      213: 502022991437616556
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_56
+  - first:
+      213: 6702611752179288964
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_57
+  - first:
+      213: -3477445309272260426
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_58
+  - first:
+      213: 4578753881364470705
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_59
+  - first:
+      213: -3237606738056952384
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_60
+  - first:
+      213: 1948433739837622366
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_61
+  - first:
+      213: 5233225435898192442
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_62
+  - first:
+      213: 6013169952304900227
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_63
+  - first:
+      213: 4438359854404276615
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_64
+  - first:
+      213: 3089197761261080220
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_65
+  - first:
+      213: 3552113782987687203
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_66
+  - first:
+      213: 7528515580124937353
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_67
+  - first:
+      213: -7290910212563900411
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_68
+  - first:
+      213: -2832958832658518394
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_69
+  - first:
+      213: -8417790893444957293
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_70
+  - first:
+      213: -464325751266048261
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_71
+  - first:
+      213: -6851886101274272643
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_72
+  - first:
+      213: 395129928932221849
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_73
+  - first:
+      213: -1506085952686695820
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_74
+  - first:
+      213: 3391425554281124736
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_75
+  - first:
+      213: 3189113809552708185
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_76
+  - first:
+      213: -2939919530075156256
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_77
+  - first:
+      213: -9148144360734977362
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_78
+  - first:
+      213: -8984145039550949940
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_79
+  - first:
+      213: -4592338087779717984
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_80
+  - first:
+      213: -947593914249297483
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_81
+  - first:
+      213: 1213993500997090829
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_82
+  - first:
+      213: 5504534998145377200
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_83
+  - first:
+      213: -632443033793699131
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_84
+  - first:
+      213: -8498058506768452272
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_85
+  - first:
+      213: -573784131607775027
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_86
+  - first:
+      213: -7390727869347022593
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_87
+  - first:
+      213: -7767194579646153986
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_88
+  - first:
+      213: 3191825404833180465
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_89
+  - first:
+      213: 4711191152084439125
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_90
+  - first:
+      213: 6254894245133651047
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_91
+  - first:
+      213: 6023803414136145041
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_92
+  - first:
+      213: 7936756076652913707
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_93
+  - first:
+      213: 7261289775604826606
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_94
+  - first:
+      213: 2990514885926375855
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_95
+  - first:
+      213: 3577326152778216230
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_96
+  - first:
+      213: 2601343508677220097
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_97
+  - first:
+      213: -3885586896456174684
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_98
+  - first:
+      213: -314530690292839833
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_99
+  - first:
+      213: -7407022224489866317
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_100
+  - first:
+      213: 6398801283382673160
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_101
+  - first:
+      213: 171916764812873642
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_102
+  - first:
+      213: 2479384127047974897
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_103
+  - first:
+      213: -3745730335910490427
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_104
+  - first:
+      213: -4900961678726088924
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_105
+  - first:
+      213: 6084825604149112237
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_106
+  - first:
+      213: 4333562328013266815
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_107
+  - first:
+      213: 7135666531567170600
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_108
+  - first:
+      213: 6431756898905720979
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_109
+  - first:
+      213: 6403988863913531043
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_110
+  - first:
+      213: -5104034065326740341
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_111
+  - first:
+      213: -4534505940633875686
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_112
+  - first:
+      213: 6658003744372693072
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_113
+  - first:
+      213: 3840676784667958179
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_114
+  - first:
+      213: -6617943283265024569
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_115
+  - first:
+      213: -6757976915185673782
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_116
+  - first:
+      213: 6208366630278321132
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_117
+  - first:
+      213: 3662512982264494549
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_118
+  - first:
+      213: 4084532444005422823
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_119
+  - first:
+      213: 7838133730444070756
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_120
+  - first:
+      213: -2849547178030571814
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_121
+  - first:
+      213: -8144195417345538867
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_122
+  - first:
+      213: 4436013661443896276
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_123
+  - first:
+      213: 5507438271046154929
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_124
+  - first:
+      213: 4162905758277558662
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_125
+  - first:
+      213: 7482854373541637593
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_126
+  - first:
+      213: 5595696376470910580
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_127
+  - first:
+      213: 7453293420599710975
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_128
+  - first:
+      213: -2417633617076091348
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_129
+  - first:
+      213: -6231571605704344117
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_130
+  - first:
+      213: -38024775864425963
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_131
+  - first:
+      213: 6729281798002878230
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_132
+  - first:
+      213: 2193069247336392827
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_133
+  - first:
+      213: 6436465379981104775
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_134
+  - first:
+      213: -2340251489410377967
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_135
+  - first:
+      213: -1719958309444384285
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_136
+  - first:
+      213: -2554378209190989679
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_137
+  - first:
+      213: 8894482001145702875
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_138
+  - first:
+      213: -4815714966899647541
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_139
+  - first:
+      213: -5951901431771454610
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_140
+  - first:
+      213: -8305539557314617784
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_141
+  - first:
+      213: -8561794346457558134
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_142
+  - first:
+      213: 3787935811509959194
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_143
+  - first:
+      213: -7772017963814210005
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_144
+  - first:
+      213: 5730166213412348239
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_145
+  - first:
+      213: 117394958841083361
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_146
+  - first:
+      213: -12476007021068762
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_147
+  - first:
+      213: -6884822656882142284
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_148
+  - first:
+      213: 4721829257461991803
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_149
+  - first:
+      213: -4346602489074453938
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_150
+  - first:
+      213: -3227654494433755023
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_151
+  - first:
+      213: 5920575543872752314
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_152
+  - first:
+      213: 5806828901538370428
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_153
+  - first:
+      213: 5964152482127841208
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_154
+  - first:
+      213: 1264024729671226648
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_155
+  - first:
+      213: -3152035561555682941
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_156
+  - first:
+      213: -1207921361086438225
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_157
+  - first:
+      213: -598562423304437503
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_158
+  - first:
+      213: 4932925552133737720
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_159
+  - first:
+      213: 1840119487336250219
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_160
+  - first:
+      213: -674119339392064490
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_161
+  - first:
+      213: 2368895958496122903
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_162
+  - first:
+      213: -231509312897207607
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_163
+  - first:
+      213: 2423970663011620087
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_164
+  - first:
+      213: -6897519586524315601
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_165
+  - first:
+      213: -5884393331126072259
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_166
+  - first:
+      213: 8840128232201667075
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_167
+  - first:
+      213: -6384742848084933153
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_168
+  - first:
+      213: 1211317262247557920
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_169
+  - first:
+      213: -8686278998323547289
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_170
+  - first:
+      213: -7929211004083305625
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_171
+  - first:
+      213: 2515257987290998640
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_172
+  - first:
+      213: -1541787618510371587
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_173
+  - first:
+      213: -6843070092711095547
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_174
+  - first:
+      213: 1484004094221296750
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_175
+  - first:
+      213: -2090249087371296348
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_176
+  - first:
+      213: 5185419245598953160
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_177
+  - first:
+      213: 4112262447138859892
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_178
+  - first:
+      213: 9061561159565058719
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_179
+  - first:
+      213: -1577628288050397675
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_180
+  - first:
+      213: 8715449800456785310
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_181
+  - first:
+      213: -1420822690025903405
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_182
+  - first:
+      213: 6451145291391566354
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_183
+  - first:
+      213: -5400702783710962821
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_184
+  - first:
+      213: -112972010483183035
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_185
+  - first:
+      213: -4447627407718426859
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_186
+  - first:
+      213: 6243424902096253363
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_187
+  - first:
+      213: 7053119315520088385
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_188
+  - first:
+      213: 309575483818779111
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_189
+  - first:
+      213: -6944760689711648658
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_190
+  - first:
+      213: -8270289137617369083
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_191
+  - first:
+      213: 284198915004303111
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_192
+  - first:
+      213: -7255830209026921848
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_193
+  - first:
+      213: 7630864406848455985
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_194
+  - first:
+      213: -7614176582911250512
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_195
+  - first:
+      213: -3628336372506907314
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_196
+  - first:
+      213: 6329543641549370371
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_197
+  - first:
+      213: 568444738209954992
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_198
+  - first:
+      213: -8074072379535790799
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_199
+  - first:
+      213: -1408203851857943447
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_200
+  - first:
+      213: 8981902411421732761
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_201
+  - first:
+      213: -9107915612035833240
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_202
+  - first:
+      213: 4960319870135268878
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_203
+  - first:
+      213: -5651579513409967137
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_204
+  - first:
+      213: -7910611740062723128
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_205
+  - first:
+      213: -8330302261210789107
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_206
+  - first:
+      213: 6915575396880047413
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_207
+  - first:
+      213: -5084880677772548976
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_208
+  - first:
+      213: -1360761891843066456
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_209
+  - first:
+      213: 507880262998052752
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_210
+  - first:
+      213: 8869502271483740744
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_211
+  - first:
+      213: -7673258762481961792
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_212
+  - first:
+      213: 7083363133601469480
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_213
+  - first:
+      213: 8266357635287853724
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_214
+  - first:
+      213: 2136542088214000963
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_215
+  - first:
+      213: -3063759170122528067
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_216
+  - first:
+      213: 2564542316279528616
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_217
+  - first:
+      213: -6511086222234280035
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_218
+  - first:
+      213: -1494034755865132083
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_219
+  - first:
+      213: 193929502873819117
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_220
+  - first:
+      213: -4988738193834929670
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_221
+  - first:
+      213: -8659518991308851568
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_222
+  - first:
+      213: 430952223892644986
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_223
+  - first:
+      213: 4328457911238713764
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_224
+  - first:
+      213: 377027029426271310
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_225
+  - first:
+      213: 4548898089386374963
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_226
+  - first:
+      213: 7476580746027889091
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_227
+  - first:
+      213: 4998656929460680241
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_228
+  - first:
+      213: 7497490620657463236
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_229
+  - first:
+      213: 2187131697416507210
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_230
+  - first:
+      213: 8420331979640020382
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_231
+  - first:
+      213: 7698730723126277501
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_232
+  - first:
+      213: 6858212669053501242
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_233
+  - first:
+      213: 3460717334135061224
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_234
+  - first:
+      213: 8463034709418930863
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_235
+  - first:
+      213: -1465266923938036038
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_236
+  - first:
+      213: 2717077635353386617
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_237
+  - first:
+      213: -2907305957574836973
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_238
+  - first:
+      213: -2662584498315448038
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_239
+  - first:
+      213: 4752509751488229661
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_240
+  - first:
+      213: 5976087709866064871
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_241
+  - first:
+      213: -1028617549719635748
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_242
+  - first:
+      213: 1611156938319354699
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_243
+  - first:
+      213: -2340293386657609405
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_244
+  - first:
+      213: -8638215200372340180
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_245
+  - first:
+      213: -4410933301152255645
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_246
+  - first:
+      213: 5464467236909906123
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_247
+  - first:
+      213: -5331569191243047239
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_248
+  - first:
+      213: -4398458158816026841
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_249
+  - first:
+      213: -4181628436959435678
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_250
+  - first:
+      213: -8674975262268135675
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_251
+  - first:
+      213: -1796792345859672317
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_252
+  - first:
+      213: -5845629434339338636
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_253
+  - first:
+      213: -7754452957222483853
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_254
+  - first:
+      213: -3024796468456839421
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_255
+  - first:
+      213: 3302604109619874455
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_256
+  - first:
+      213: 3999482578059443286
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_257
+  - first:
+      213: 9150325343703263734
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_258
+  - first:
+      213: 3743364570976680831
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_259
+  - first:
+      213: -7907129331339277717
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_260
+  - first:
+      213: 7980882904053259561
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_261
+  - first:
+      213: -3907208363030405583
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_262
+  - first:
+      213: 7170418829982320635
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_263
+  - first:
+      213: -881140910287321786
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_264
+  - first:
+      213: 2053296902451186589
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_265
+  - first:
+      213: -5722276905846293002
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_266
+  - first:
+      213: -8841694841652258872
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_267
+  - first:
+      213: -196960869355385839
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_268
+  - first:
+      213: -8328013556654673595
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_269
+  - first:
+      213: 1472287984391085584
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_270
+  - first:
+      213: 8820222842598244308
+    second: PC Computer - Enter the Gungeon - Shotgun Kin_271
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 524
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01350b4a327ed0830800000000000000
+      internalID: 4039138581094093584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 524
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0011f7c0fc9c9eb0800000000000000
+      internalID: -4711718552175833074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 524
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7233d5d6fb271c0800000000000000
+      internalID: -4507329800608471123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 524
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f213bb6efb18b8d0800000000000000
+      internalID: -2830481586259815691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 492
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b707707995e560800000000000000
+      internalID: 7342443475809841435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 492
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730f4ecb0729d2640800000000000000
+      internalID: 5056858969510047799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 492
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86bbd6ec24a51d10800000000000000
+      internalID: 2095761714369509004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 492
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa309b32cf38ec600800000000000000
+      internalID: 490474528384287658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 492
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf48379a04d00250800000000000000
+      internalID: 5908955853061902270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 492
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce05077741d91cb80800000000000000
+      internalID: -8376241120703655700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 492
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e61aefb983df070800000000000000
+      internalID: 8141725943998803495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 492
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf98cbb16d53600800000000000000
+      internalID: 447499152608853179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 481
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc5ff9b90c2ff80800000000000000
+      internalID: -8074179407285728414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 481
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d17bd9b497eb960800000000000000
+      internalID: 7619660985232989566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 481
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f1776aa14eb4300800000000000000
+      internalID: 237534208480190252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 481
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e486b1bd10829a6c0800000000000000
+      internalID: -4131727194699634610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 481
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e99339a5be32d0800000000000000
+      internalID: -3296998138868799358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 481
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450a574925e5baa0800000000000000
+      internalID: -6145754151023671992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 448
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afa25bd98217eba0800000000000000
+      internalID: -6059854390304264285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 448
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0aec8eccf247350800000000000000
+      internalID: 6013483959572144304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 448
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075413b334f30ad10800000000000000
+      internalID: 2134775781362058608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 448
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb1ef82029e117f0800000000000000
+      internalID: -643476947401303114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 448
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60435336691a795a0800000000000000
+      internalID: -6514560668686535674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a63bd81d81f238f0800000000000000
+      internalID: -562121415158188375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 448
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0b2397ca50b010800000000000000
+      internalID: 1202560913721986414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f8f2bae32ecfc50800000000000000
+      internalID: 6700479104408326047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 448
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc137487ff58940800000000000000
+      internalID: 5297921428726861760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 448
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36c1c3aee897c880800000000000000
+      internalID: -8590729613468907972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 448
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df71341e0b1fa40800000000000000
+      internalID: 5400291909733711138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 448
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ca0f31be3f0a70800000000000000
+      internalID: 8795317528265671303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 448
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa72cc5a8f9bbc0800000000000000
+      internalID: -3766706222340265308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 448
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b057b204cebf2410800000000000000
+      internalID: 1454590953732395191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 448
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146daacc2995d3ec0800000000000000
+      internalID: -3585611241283201471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 448
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfacc8bd3168f3bd0800000000000000
+      internalID: -2648250636024624389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 448
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea730ad755af8810800000000000000
+      internalID: 1769814975318293218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 448
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b87f33240a62e40800000000000000
+      internalID: 5631364590273530690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_36
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 448
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74172f275a73cf2b0800000000000000
+      internalID: -5549499457089670841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 448
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62eb85a771bea80800000000000000
+      internalID: -8436623662706186583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_38
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 448
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2264f93627fbd00800000000000000
+      internalID: 990636215244301045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 448
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43bce9c319c899d0800000000000000
+      internalID: -2767240884189875379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_40
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 448
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c7b6c34da6eda0800000000000000
+      internalID: -5915850553896222267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_41
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 448
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b66cb41f1b9ada0800000000000000
+      internalID: -5933015384167388353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 416
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56546cdccc9ab4c00800000000000000
+      internalID: 885988448799180133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 416
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb2cdc1200f9970800000000000000
+      internalID: 8763723545072287658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 416
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e2ecc5401b133c0800000000000000
+      internalID: -4381526330159780205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 416
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6236a36b3f863050800000000000000
+      internalID: 5779964657014289006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 416
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958eddf478f4aaf00800000000000000
+      internalID: 1128802099188852825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 416
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a4e262c42961a0800000000000000
+      internalID: -6815876143747128425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 416
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fbfaffec8186390800000000000000
+      internalID: -7824977075224199381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 416
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908485d5db65877a0800000000000000
+      internalID: -6379253500855433207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 416
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f222d0f66d5d630800000000000000
+      internalID: 3951300020537536399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 416
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3334668804a30e450800000000000000
+      internalID: 6115952342809854771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_52
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 416
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc423e0baf613490800000000000000
+      internalID: -7768305101769126715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 416
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939fcb595ad029410800000000000000
+      internalID: 1482262232191269177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 416
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffc5e81792c7dec0800000000000000
+      internalID: -3542148627690041348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 416
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f5d0c1a2e39e660800000000000000
+      internalID: 7415526612022419229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_56
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 416
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5d7b9304b87f600800000000000000
+      internalID: 502022991437616556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_57
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 416
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b410c60e5740d50800000000000000
+      internalID: 6702611752179288964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_58
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 416
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08afe5ae1adbfc0800000000000000
+      internalID: -3477445309272260426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_59
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 416
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9ba455600b8f30800000000000000
+      internalID: 4578753881364470705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 405
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c544b743d5b113d0800000000000000
+      internalID: -3237606738056952384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 405
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584863c92a3a0b10800000000000000
+      internalID: 1948433739837622366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 373
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a322040aec620a840800000000000000
+      internalID: 5233225435898192442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_63
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 373
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388af256632137350800000000000000
+      internalID: 6013169952304900227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 373
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7811f1ba5c8389d30800000000000000
+      internalID: 4438359854404276615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 373
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e06e02ff80fda20800000000000000
+      internalID: 3089197761261080220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_66
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 373
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32500cc6aa4ab4130800000000000000
+      internalID: 3552113782987687203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 373
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c37574809aa7860800000000000000
+      internalID: 7528515580124937353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 373
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5086cd26acb71da90800000000000000
+      internalID: -7290910212563900411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_69
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 373
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e651c83fe4fa8d0800000000000000
+      internalID: -2832958832658518394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_70
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 373
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf1b228cffd2b80800000000000000
+      internalID: -8417790893444957293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 373
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf688b770326e89f0800000000000000
+      internalID: -464325751266048261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_72
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 373
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c5c1cc4e539e0a0800000000000000
+      internalID: -6851886101274272643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 373
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993612ea398cb7500800000000000000
+      internalID: 395129928932221849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 373
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a57ec3ece491be0800000000000000
+      internalID: -1506085952686695820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_75
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 373
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083db15b293c01f20800000000000000
+      internalID: 3391425554281124736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 373
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9529ea6fc12024c20800000000000000
+      internalID: 3189113809552708185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_77
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 373
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e013a583ce4337d0800000000000000
+      internalID: -2939919530075156256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_78
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 373
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea216604c234b0180800000000000000
+      internalID: -9148144360734977362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 373
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55af2cfa7e15380800000000000000
+      internalID: -8984145039550949940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_80
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 373
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aca46527dcb440c0800000000000000
+      internalID: -4592338087779717984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_81
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 373
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b149d50b5879d2f0800000000000000
+      internalID: -947593914249297483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e709a38a8f8d010800000000000000
+      internalID: 1213993500997090829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_83
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32922aa69046c40800000000000000
+      internalID: 5504534998145377200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c26e0e596c1937f0800000000000000
+      internalID: -632443033793699131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 362
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055749f00d4d01a80800000000000000
+      internalID: -8498058506768452272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_86
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 362
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc833c15f528908f0800000000000000
+      internalID: -573784131607775027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8bdfb192cde6990800000000000000
+      internalID: -7390727869347022593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_88
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 360
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaf9d2aea1653490800000000000000
+      internalID: -7767194579646153986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_89
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b26207b44ab4c20800000000000000
+      internalID: 3191825404833180465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 362
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550d4f05463816140800000000000000
+      internalID: 4711191152084439125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 362
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c83d41d29ddc650800000000000000
+      internalID: 6254894245133651047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_92
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 362
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ce582a49d89350800000000000000
+      internalID: 6023803414136145041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e1d9d995052e60800000000000000
+      internalID: 7936756076652913707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_94
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10a16349845c460800000000000000
+      internalID: 7261289775604826606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_95
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 362
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1d82fb171708920800000000000000
+      internalID: 2990514885926375855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_96
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 362
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237f06be2735a130800000000000000
+      internalID: 3577326152778216230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107597d7324d91420800000000000000
+      internalID: 2601343508677220097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_98
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 360
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a331dced4f931ac0800000000000000
+      internalID: -3885586896456174684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_99
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 362
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a032ee00092abf0800000000000000
+      internalID: -314530690292839833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_100
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 362
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb9bd9e788f43990800000000000000
+      internalID: -7407022224489866317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_101
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 362
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f765c6ddb1dc850800000000000000
+      internalID: 6398801283382673160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_102
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf0b910365c26200800000000000000
+      internalID: 171916764812873642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_103
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 319
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbf6a2aba886220800000000000000
+      internalID: 2479384127047974897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_104
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 319
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce86afea1e740cc0800000000000000
+      internalID: -3745730335910490427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 319
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427bab1d1594cfbb0800000000000000
+      internalID: -4900961678726088924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad628fe5a4a17450800000000000000
+      internalID: 6084825604149112237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_107
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 319
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fde352af7e32c30800000000000000
+      internalID: 4333562328013266815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_108
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 319
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82474b177eaf60360800000000000000
+      internalID: 7135666531567170600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_109
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 319
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39881f892d0324950800000000000000
+      internalID: 6431756898905720979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_110
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 319
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69f1321f98fd850800000000000000
+      internalID: 6403988863913531043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_111
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 319
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce4b65f04da29b0800000000000000
+      internalID: -5104034065326740341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_112
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 319
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8e903fd23211c0800000000000000
+      internalID: -4534505940633875686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_113
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0581e80412bf56c50800000000000000
+      internalID: 6658003744372693072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_114
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 319
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab1937df23dc4530800000000000000
+      internalID: 3840676784667958179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_115
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 319
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd4e41b5a75824a0800000000000000
+      internalID: -6617943283265024569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_116
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9511a0dc7d632a0800000000000000
+      internalID: -6757976915185673782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_117
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 308
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d0219e8c882650800000000000000
+      internalID: 6208366630278321132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_118
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 308
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9b12d072cd3d230800000000000000
+      internalID: 3662512982264494549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_119
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 306
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e65086fd9c2fa830800000000000000
+      internalID: 4084532444005422823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_120
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 308
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f40218915a6cc60800000000000000
+      internalID: 7838133730444070756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 308
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade55ca60ff5478d0800000000000000
+      internalID: -2849547178030571814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_122
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 308
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc441cfea610afe80800000000000000
+      internalID: -8144195417345538867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_123
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 306
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3b42d0ce2ef8d30800000000000000
+      internalID: 4436013661443896276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_124
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 279
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baf8188de95e6c40800000000000000
+      internalID: 5507438271046154929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_125
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 279
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ef8b2bbc95c930800000000000000
+      internalID: 4162905758277558662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 279
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6de8286078d760800000000000000
+      internalID: 7482854373541637593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_127
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 279
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763d760538e7ad40800000000000000
+      internalID: 5595696376470910580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 279
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41a9570ea6f6760800000000000000
+      internalID: 7453293420599710975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_129
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 279
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c260321d807d27ed0800000000000000
+      internalID: -2417633617076091348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_130
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 279
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf49114a20589a0800000000000000
+      internalID: -6231571605704344117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_131
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 279
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512efe5faa8e87ff0800000000000000
+      internalID: -38024775864425963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_132
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 279
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a67b5426336d50800000000000000
+      internalID: 6729281798002878230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_133
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 279
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78a15f6cd85f6e10800000000000000
+      internalID: 2193069247336392827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 268
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7869fd6492be25950800000000000000
+      internalID: 6436465379981104775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_135
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179d986ba1c58fd0800000000000000
+      internalID: -2340251489410377967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e90611c70b7128e0800000000000000
+      internalID: -1719958309444384285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_137
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 268
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1903c2b6d860d8cd0800000000000000
+      internalID: -2554378209190989679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_138
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9256b414c8f6b70800000000000000
+      internalID: 8894482001145702875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_139
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb1a6a90c42b2db0800000000000000
+      internalID: -4815714966899647541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_140
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 268
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63af1dae29966da0800000000000000
+      internalID: -5951901431771454610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9e4af6cbccbc80800000000000000
+      internalID: -8305539557314617784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_142
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83137b77656e2980800000000000000
+      internalID: -8561794346457558134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_143
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a380d1d83719430800000000000000
+      internalID: 3787935811509959194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_144
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 268
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2636eef6de342490800000000000000
+      internalID: -7772017963814210005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416366bfc3a58f40800000000000000
+      internalID: 5730166213412348239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_146
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 268
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f424d71211a100800000000000000
+      internalID: 117394958841083361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3b41432da3dff0800000000000000
+      internalID: -12476007021068762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_148
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 268
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b39afa55423470a0800000000000000
+      internalID: -6884822656882142284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_149
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79811d31be478140800000000000000
+      internalID: 4721829257461991803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_150
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4273e2c014cda3c0800000000000000
+      internalID: -4346602489074453938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_151
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 268
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170459196511533d0800000000000000
+      internalID: -3227654494433755023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba866ea61c1a2250800000000000000
+      internalID: 5920575543872752314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_153
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c739aabbe10069050800000000000000
+      internalID: 5806828901538370428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_154
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 268
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b78e73451de4c250800000000000000
+      internalID: 5964152482127841208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_155
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815dc576bc7ba8110800000000000000
+      internalID: 1264024729671226648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_156
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38913126b58b144d0800000000000000
+      internalID: -3152035561555682941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_157
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 268
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa426d30ce99c3fe0800000000000000
+      internalID: -1207921361086438225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_158
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101ca07b5aa71b7f0800000000000000
+      internalID: -598562423304437503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_159
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc016667a5457440800000000000000
+      internalID: 4932925552133737720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_160
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b73f2acea698910800000000000000
+      internalID: 1840119487336250219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 268
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a05f480c05a6f0800000000000000
+      internalID: -674119339392064490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_162
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7181504c25200e020800000000000000
+      internalID: 2368895958496122903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_163
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 268
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2319aa18389ccf0800000000000000
+      internalID: -231509312897207607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_164
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f496caa97ca3a120800000000000000
+      internalID: 2423970663011620087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_165
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 268
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f204bed0b761740a0800000000000000
+      internalID: -6897519586524315601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_166
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c8d83317f665ea0800000000000000
+      internalID: -5884393331126072259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_167
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30248494ac17eaa70800000000000000
+      internalID: 8840128232201667075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_168
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 238
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd58ead1536d467a0800000000000000
+      internalID: -6384742848084933153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_169
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 238
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b7096d1a67fc010800000000000000
+      internalID: 1211317262247557920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_170
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 238
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633dfcd543247780800000000000000
+      internalID: -8686278998323547289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_171
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 238
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630f704a98c5f190800000000000000
+      internalID: -7929211004083305625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_172
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 238
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a1f220ddf7e220800000000000000
+      internalID: 2515257987290998640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_173
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 238
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4089764587a9ae0800000000000000
+      internalID: -1541787618510371587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 238
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5031bdeb1088801a0800000000000000
+      internalID: -6843070092711095547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_175
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 238
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6429417cdd389410800000000000000
+      internalID: 1484004094221296750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_176
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a146279781fdf2e0800000000000000
+      internalID: -2090249087371296348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_177
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 212
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce4661945f46f740800000000000000
+      internalID: 5185419245598953160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_178
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 212
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47be3e078e0b11930800000000000000
+      internalID: 4112262447138859892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_179
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 212
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f922a5a4dd121cd70800000000000000
+      internalID: 9061561159565058719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_180
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef52f3e632b1ae0800000000000000
+      internalID: -1577628288050397675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_181
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 212
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc9f5ca6f73f870800000000000000
+      internalID: 8715449800456785310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_182
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 212
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae0309a49384ce0800000000000000
+      internalID: -1420822690025903405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_183
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 212
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21204df7672178950800000000000000
+      internalID: 6451145291391566354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_184
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 185
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bd17fae69dc05b0800000000000000
+      internalID: -5400702783710962821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_185
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 185
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54296951e84ae6ef0800000000000000
+      internalID: -112972010483183035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_186
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 185
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d6adef6ad642c0800000000000000
+      internalID: -4447627407718426859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_187
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 185
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1764f8ed915a650800000000000000
+      internalID: 6243424902096253363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_188
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 185
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149650006a6b1e160800000000000000
+      internalID: 7053119315520088385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_189
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 185
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e120382345db4400800000000000000
+      internalID: 309575483818779111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_190
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 185
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60f3a792f04f9f90800000000000000
+      internalID: -6944760689711648658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_191
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 185
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5088b82e8d70a3d80800000000000000
+      internalID: -8270289137617369083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_192
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 155
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707026e486da1f300800000000000000
+      internalID: 284198915004303111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_193
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae6603edc1e4b90800000000000000
+      internalID: -7255830209026921848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_194
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 155
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135cf5b7fb646e960800000000000000
+      internalID: 7630864406848455985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_195
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 155
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf2a7e4db2055690800000000000000
+      internalID: -7614176582911250512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_196
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 155
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da81ffa4f85adc0800000000000000
+      internalID: -3628336372506907314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_197
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 155
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304f1e8186e07d750800000000000000
+      internalID: 6329543641549370371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_198
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 155
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcb1774a7583e700800000000000000
+      internalID: 568444738209954992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_199
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 155
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de9f6f2f123ff80800000000000000
+      internalID: -8074072379535790799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_200
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964aba6ce0e057ce0800000000000000
+      internalID: -1408203851857943447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_201
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 128
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f4400b7a026ac70800000000000000
+      internalID: 8981902411421732761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_202
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862ae54b10f2a9180800000000000000
+      internalID: -9107915612035833240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_203
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0679b714a896d440800000000000000
+      internalID: 4960319870135268878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_204
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 128
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbe25b306e8191b0800000000000000
+      internalID: -5651579513409967137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_205
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 128
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d68dd88cd73290800000000000000
+      internalID: -7910611740062723128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_206
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 128
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bc5e0ba32d46c80800000000000000
+      internalID: -8330302261210789107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_207
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 128
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d5774ee2f09ff50800000000000000
+      internalID: 6915575396880047413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_208
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094ae14e6ffde69b0800000000000000
+      internalID: -5084880677772548976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_209
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 98
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53eccd44a9d1de0800000000000000
+      internalID: -1360761891843066456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_210
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f4e68886a5c0700800000000000000
+      internalID: 507880262998052752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_211
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 98
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420f42c25dc61b70800000000000000
+      internalID: 8869502271483740744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_212
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 98
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4fb986fcb138590800000000000000
+      internalID: -7673258762481961792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_213
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 98
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d961ad392d4260800000000000000
+      internalID: 7083363133601469480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_214
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 98
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aaba5e87008b270800000000000000
+      internalID: 8266357635287853724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_215
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 98
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345baa795b586ad10800000000000000
+      internalID: 2136542088214000963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_216
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 98
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba408b64475b75d0800000000000000
+      internalID: -3063759170122528067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_217
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 98
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac7c4d26a5179320800000000000000
+      internalID: 2564542316279528616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_218
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f19cdf399f3a5a0800000000000000
+      internalID: -6511086222234280035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_219
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 68
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc342962e4f144be0800000000000000
+      internalID: -1494034755865132083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_220
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 68
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7134afad9f0b200800000000000000
+      internalID: 193929502873819117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_221
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19b0f4b0174cab0800000000000000
+      internalID: -4988738193834929670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_222
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 68
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09679458b5533d780800000000000000
+      internalID: -8659518991308851568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_223
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 68
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74294ca3cc0bf500800000000000000
+      internalID: 430952223892644986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_224
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 68
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1ec908985c11c30800000000000000
+      internalID: 4328457911238713764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_225
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 68
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e447cafe5187b3500800000000000000
+      internalID: 377027029426271310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_226
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 68
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337f35116bee02f30800000000000000
+      internalID: 4548898089386374963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_227
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 68
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1748d639622c760800000000000000
+      internalID: 7476580746027889091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_228
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367c8a4efbce5540800000000000000
+      internalID: 4998656929460680241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_229
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf6c1ffeff6c0860800000000000000
+      internalID: 7497490620657463236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_230
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f028dd0b04a5e10800000000000000
+      internalID: 2187131697416507210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_231
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d1e4992570bd470800000000000000
+      internalID: 8420331979640020382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_232
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f3559dc267da60800000000000000
+      internalID: 7698730723126277501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_233
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f740d06144d2f50800000000000000
+      internalID: 6858212669053501242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_234
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea38296410f60030800000000000000
+      internalID: 3460717334135061224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_235
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 34
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa277b8aa3db27570800000000000000
+      internalID: 8463034709418930863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_236
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab64b89fe735aabe0800000000000000
+      internalID: -1465266923938036038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_237
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e9562b6bff4b520800000000000000
+      internalID: 2717077635353386617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_238
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 36
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dff5992ac27a7d0800000000000000
+      internalID: -2907305957574836973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_239
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11327971899c0bd0800000000000000
+      internalID: -2662584498315448038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_240
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113909607e44f140800000000000000
+      internalID: 4752509751488229661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_241
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 34
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf4250c145fe250800000000000000
+      internalID: 5976087709866064871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_242
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd87a33d9cd99b1f0800000000000000
+      internalID: -1028617549719635748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_243
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b5ee9f2bafb5610800000000000000
+      internalID: 1611156938319354699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_244
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c312709b958fd0800000000000000
+      internalID: -2340293386657609405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_245
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 5
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a4d60ea05ee1880800000000000000
+      internalID: -8638215200372340180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_246
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 17
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f0e0688739c2c0800000000000000
+      internalID: -4410933301152255645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_247
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc876ceffffa5db40800000000000000
+      internalID: 5464467236909906123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_248
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 15
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9a8481167206b0800000000000000
+      internalID: -5331569191243047239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_249
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f1a5ccb9985f2c0800000000000000
+      internalID: -4398458158816026841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_250
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 17
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646c50871fd7f5c0800000000000000
+      internalID: -4181628436959435678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_251
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 5
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e43106fb4c9780800000000000000
+      internalID: -8674975262268135675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_252
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 15
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b4e991e28017e0800000000000000
+      internalID: -1796792345859672317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_253
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 17
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476d2ad300720eea0800000000000000
+      internalID: -5845629434339338636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_254
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 17
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c649ce16a26490800000000000000
+      internalID: -7754452957222483853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_255
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 17
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30726c353a3c506d0800000000000000
+      internalID: -3024796468456839421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_256
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 5
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a43a390f435dd20800000000000000
+      internalID: 3302604109619874455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_257
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cb89ee634018730800000000000000
+      internalID: 3999482578059443286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_258
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9efaa6b6c7cfe70800000000000000
+      internalID: 9150325343703263734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_259
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bf8dd7e3a13f330800000000000000
+      internalID: 3743364570976680831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_260
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 5
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a437454cb344290800000000000000
+      internalID: -7907129331339277717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_261
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d151a77bac1ce60800000000000000
+      internalID: 7980882904053259561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_262
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e1322f1bec6c9c0800000000000000
+      internalID: -3907208363030405583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_263
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf74ed37fe1728360800000000000000
+      internalID: 7170418829982320635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_264
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6458245b20f85c3f0800000000000000
+      internalID: -881140910287321786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_265
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b430967a6ce7c10800000000000000
+      internalID: 2053296902451186589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_266
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd3c98d8736690b0800000000000000
+      internalID: -5722276905846293002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_267
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d9e6036dfb4580800000000000000
+      internalID: -8841694841652258872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_268
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8b630221444df0800000000000000
+      internalID: -196960869355385839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_269
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 5
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541f5fe3bc3fc6c80800000000000000
+      internalID: -8328013556654673595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_270
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ed4bc0f1e9e6410800000000000000
+      internalID: 1472287984391085584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin_271
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfbadc91f9b76a70800000000000000
+      internalID: 8820222842598244308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

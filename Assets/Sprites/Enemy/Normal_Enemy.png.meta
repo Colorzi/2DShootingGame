@@ -1,0 +1,4651 @@
+fileFormatVersion: 2
+guid: d9e5f90d90b6fa1449d5586f6caf68a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5663768481654121786
+    second: PC Computer - Enter the Gungeon - Bullet Kin_0
+  - first:
+      213: -685349991729079519
+    second: PC Computer - Enter the Gungeon - Bullet Kin_1
+  - first:
+      213: -6276740594994690731
+    second: PC Computer - Enter the Gungeon - Bullet Kin_2
+  - first:
+      213: -1960996413658714637
+    second: PC Computer - Enter the Gungeon - Bullet Kin_3
+  - first:
+      213: -2156132281126000549
+    second: PC Computer - Enter the Gungeon - Bullet Kin_4
+  - first:
+      213: 1389685667120427767
+    second: PC Computer - Enter the Gungeon - Bullet Kin_5
+  - first:
+      213: 7035737859514988500
+    second: PC Computer - Enter the Gungeon - Bullet Kin_6
+  - first:
+      213: 4228371436754076194
+    second: PC Computer - Enter the Gungeon - Bullet Kin_7
+  - first:
+      213: 7659007878283275290
+    second: PC Computer - Enter the Gungeon - Bullet Kin_8
+  - first:
+      213: 7169047482901372869
+    second: PC Computer - Enter the Gungeon - Bullet Kin_9
+  - first:
+      213: 560615132664363236
+    second: PC Computer - Enter the Gungeon - Bullet Kin_10
+  - first:
+      213: -2284337260919815040
+    second: PC Computer - Enter the Gungeon - Bullet Kin_11
+  - first:
+      213: -7842599566709441219
+    second: PC Computer - Enter the Gungeon - Bullet Kin_12
+  - first:
+      213: -4376300363613440859
+    second: PC Computer - Enter the Gungeon - Bullet Kin_13
+  - first:
+      213: -7589724783433757597
+    second: PC Computer - Enter the Gungeon - Bullet Kin_14
+  - first:
+      213: -8950351930724940539
+    second: PC Computer - Enter the Gungeon - Bullet Kin_15
+  - first:
+      213: 1913806982058990874
+    second: PC Computer - Enter the Gungeon - Bullet Kin_16
+  - first:
+      213: 6869454434627149177
+    second: PC Computer - Enter the Gungeon - Bullet Kin_17
+  - first:
+      213: 704220257202755299
+    second: PC Computer - Enter the Gungeon - Bullet Kin_18
+  - first:
+      213: 1786217592768008119
+    second: PC Computer - Enter the Gungeon - Bullet Kin_19
+  - first:
+      213: 8414691020048693141
+    second: PC Computer - Enter the Gungeon - Bullet Kin_20
+  - first:
+      213: -4098342349298301453
+    second: PC Computer - Enter the Gungeon - Bullet Kin_21
+  - first:
+      213: 584725045271048870
+    second: PC Computer - Enter the Gungeon - Bullet Kin_22
+  - first:
+      213: -8055954309151003128
+    second: PC Computer - Enter the Gungeon - Bullet Kin_23
+  - first:
+      213: -8741291404858496959
+    second: PC Computer - Enter the Gungeon - Bullet Kin_24
+  - first:
+      213: 223438514391261349
+    second: PC Computer - Enter the Gungeon - Bullet Kin_25
+  - first:
+      213: 9158575851549017395
+    second: PC Computer - Enter the Gungeon - Bullet Kin_26
+  - first:
+      213: -3862105503905811576
+    second: PC Computer - Enter the Gungeon - Bullet Kin_27
+  - first:
+      213: 5638620167939847883
+    second: PC Computer - Enter the Gungeon - Bullet Kin_28
+  - first:
+      213: 6258663977789487043
+    second: PC Computer - Enter the Gungeon - Bullet Kin_29
+  - first:
+      213: 9059073795140781956
+    second: PC Computer - Enter the Gungeon - Bullet Kin_30
+  - first:
+      213: -5150716027590167447
+    second: PC Computer - Enter the Gungeon - Bullet Kin_31
+  - first:
+      213: 2668088711847086968
+    second: PC Computer - Enter the Gungeon - Bullet Kin_32
+  - first:
+      213: -573854806734279826
+    second: PC Computer - Enter the Gungeon - Bullet Kin_33
+  - first:
+      213: -2137023491140671200
+    second: PC Computer - Enter the Gungeon - Bullet Kin_34
+  - first:
+      213: 6108507505323955473
+    second: PC Computer - Enter the Gungeon - Bullet Kin_35
+  - first:
+      213: -2438200279984515162
+    second: PC Computer - Enter the Gungeon - Bullet Kin_36
+  - first:
+      213: -5456802053735545901
+    second: PC Computer - Enter the Gungeon - Bullet Kin_37
+  - first:
+      213: 4383533375866006596
+    second: PC Computer - Enter the Gungeon - Bullet Kin_38
+  - first:
+      213: 3553171852685952540
+    second: PC Computer - Enter the Gungeon - Bullet Kin_39
+  - first:
+      213: -9196647482490101138
+    second: PC Computer - Enter the Gungeon - Bullet Kin_40
+  - first:
+      213: -2592147010933247564
+    second: PC Computer - Enter the Gungeon - Bullet Kin_41
+  - first:
+      213: 6472800084741768536
+    second: PC Computer - Enter the Gungeon - Bullet Kin_42
+  - first:
+      213: 6365422919858493875
+    second: PC Computer - Enter the Gungeon - Bullet Kin_43
+  - first:
+      213: -4759310261277518893
+    second: PC Computer - Enter the Gungeon - Bullet Kin_44
+  - first:
+      213: -3460171673338195825
+    second: PC Computer - Enter the Gungeon - Bullet Kin_45
+  - first:
+      213: 6909233583143239482
+    second: PC Computer - Enter the Gungeon - Bullet Kin_46
+  - first:
+      213: 7066155745372176841
+    second: PC Computer - Enter the Gungeon - Bullet Kin_47
+  - first:
+      213: -4510219683959895041
+    second: PC Computer - Enter the Gungeon - Bullet Kin_48
+  - first:
+      213: 886949793712048958
+    second: PC Computer - Enter the Gungeon - Bullet Kin_49
+  - first:
+      213: 4926951622111134490
+    second: PC Computer - Enter the Gungeon - Bullet Kin_50
+  - first:
+      213: 675535943909552728
+    second: PC Computer - Enter the Gungeon - Bullet Kin_51
+  - first:
+      213: -4386092543901013761
+    second: PC Computer - Enter the Gungeon - Bullet Kin_52
+  - first:
+      213: 777533752650117107
+    second: PC Computer - Enter the Gungeon - Bullet Kin_53
+  - first:
+      213: 4172768794961842801
+    second: PC Computer - Enter the Gungeon - Bullet Kin_54
+  - first:
+      213: 4680552833880777169
+    second: PC Computer - Enter the Gungeon - Bullet Kin_55
+  - first:
+      213: -5667347856672991053
+    second: PC Computer - Enter the Gungeon - Bullet Kin_56
+  - first:
+      213: 5551561272806710821
+    second: PC Computer - Enter the Gungeon - Bullet Kin_57
+  - first:
+      213: -7232478523940184286
+    second: PC Computer - Enter the Gungeon - Bullet Kin_58
+  - first:
+      213: -3708348395856619422
+    second: PC Computer - Enter the Gungeon - Bullet Kin_59
+  - first:
+      213: 7554798708843660439
+    second: PC Computer - Enter the Gungeon - Bullet Kin_60
+  - first:
+      213: -8119421621026814897
+    second: PC Computer - Enter the Gungeon - Bullet Kin_61
+  - first:
+      213: -6815499685917604423
+    second: PC Computer - Enter the Gungeon - Bullet Kin_62
+  - first:
+      213: 7533967536528353417
+    second: PC Computer - Enter the Gungeon - Bullet Kin_63
+  - first:
+      213: 997271730190476770
+    second: PC Computer - Enter the Gungeon - Bullet Kin_64
+  - first:
+      213: 8624076648983328838
+    second: PC Computer - Enter the Gungeon - Bullet Kin_65
+  - first:
+      213: -3376922594256809965
+    second: PC Computer - Enter the Gungeon - Bullet Kin_66
+  - first:
+      213: -3537277083747272613
+    second: PC Computer - Enter the Gungeon - Bullet Kin_67
+  - first:
+      213: 4850431960825633473
+    second: PC Computer - Enter the Gungeon - Bullet Kin_68
+  - first:
+      213: 8869750953399921974
+    second: PC Computer - Enter the Gungeon - Bullet Kin_69
+  - first:
+      213: -577717408457935297
+    second: PC Computer - Enter the Gungeon - Bullet Kin_70
+  - first:
+      213: -7048121351454101459
+    second: PC Computer - Enter the Gungeon - Bullet Kin_71
+  - first:
+      213: 4526130453099433942
+    second: PC Computer - Enter the Gungeon - Bullet Kin_72
+  - first:
+      213: -4657579517763741266
+    second: PC Computer - Enter the Gungeon - Bullet Kin_73
+  - first:
+      213: -2045490189238808412
+    second: PC Computer - Enter the Gungeon - Bullet Kin_74
+  - first:
+      213: -7200657472658301218
+    second: PC Computer - Enter the Gungeon - Bullet Kin_75
+  - first:
+      213: -7607350439106600146
+    second: PC Computer - Enter the Gungeon - Bullet Kin_76
+  - first:
+      213: 5684954506329747289
+    second: PC Computer - Enter the Gungeon - Bullet Kin_77
+  - first:
+      213: -1860411235009351215
+    second: PC Computer - Enter the Gungeon - Bullet Kin_78
+  - first:
+      213: -6142501875882228451
+    second: PC Computer - Enter the Gungeon - Bullet Kin_79
+  - first:
+      213: -1211251695386626782
+    second: PC Computer - Enter the Gungeon - Bullet Kin_80
+  - first:
+      213: -1839138631472641841
+    second: PC Computer - Enter the Gungeon - Bullet Kin_81
+  - first:
+      213: 3796900712130140521
+    second: PC Computer - Enter the Gungeon - Bullet Kin_82
+  - first:
+      213: -2955028542160173810
+    second: PC Computer - Enter the Gungeon - Bullet Kin_83
+  - first:
+      213: 4960732904576528055
+    second: PC Computer - Enter the Gungeon - Bullet Kin_84
+  - first:
+      213: -5236602555436811378
+    second: PC Computer - Enter the Gungeon - Bullet Kin_85
+  - first:
+      213: -2632696954151211157
+    second: PC Computer - Enter the Gungeon - Bullet Kin_86
+  - first:
+      213: -340037443593884891
+    second: PC Computer - Enter the Gungeon - Bullet Kin_87
+  - first:
+      213: 4664559835859207791
+    second: PC Computer - Enter the Gungeon - Bullet Kin_88
+  - first:
+      213: -4598966006850374705
+    second: PC Computer - Enter the Gungeon - Bullet Kin_89
+  - first:
+      213: -5987610195609170873
+    second: PC Computer - Enter the Gungeon - Bullet Kin_90
+  - first:
+      213: 7341006874838808966
+    second: PC Computer - Enter the Gungeon - Bullet Kin_91
+  - first:
+      213: 7737310953530490131
+    second: PC Computer - Enter the Gungeon - Bullet Kin_92
+  - first:
+      213: -3391965684965806141
+    second: PC Computer - Enter the Gungeon - Bullet Kin_93
+  - first:
+      213: 8434502221850536610
+    second: PC Computer - Enter the Gungeon - Bullet Kin_94
+  - first:
+      213: -4498260309869252789
+    second: PC Computer - Enter the Gungeon - Bullet Kin_95
+  - first:
+      213: 8488239998620171174
+    second: PC Computer - Enter the Gungeon - Bullet Kin_96
+  - first:
+      213: -8260741683665597239
+    second: PC Computer - Enter the Gungeon - Bullet Kin_97
+  - first:
+      213: -5379303027921560838
+    second: PC Computer - Enter the Gungeon - Bullet Kin_98
+  - first:
+      213: 6395837834250295151
+    second: PC Computer - Enter the Gungeon - Bullet Kin_99
+  - first:
+      213: -4266902686127549223
+    second: PC Computer - Enter the Gungeon - Bullet Kin_100
+  - first:
+      213: -1086224666671312428
+    second: PC Computer - Enter the Gungeon - Bullet Kin_101
+  - first:
+      213: -6600869528473443395
+    second: PC Computer - Enter the Gungeon - Bullet Kin_102
+  - first:
+      213: -77276938008280886
+    second: PC Computer - Enter the Gungeon - Bullet Kin_103
+  - first:
+      213: -3066887394534892768
+    second: PC Computer - Enter the Gungeon - Bullet Kin_104
+  - first:
+      213: -5631389228966326211
+    second: PC Computer - Enter the Gungeon - Bullet Kin_105
+  - first:
+      213: 5059321471003756760
+    second: PC Computer - Enter the Gungeon - Bullet Kin_106
+  - first:
+      213: -4788479071596640898
+    second: PC Computer - Enter the Gungeon - Bullet Kin_107
+  - first:
+      213: 312035657652554271
+    second: PC Computer - Enter the Gungeon - Bullet Kin_108
+  - first:
+      213: -4692253542289818457
+    second: PC Computer - Enter the Gungeon - Bullet Kin_109
+  - first:
+      213: 3235017990404340029
+    second: PC Computer - Enter the Gungeon - Bullet Kin_110
+  - first:
+      213: 3155885546709087128
+    second: PC Computer - Enter the Gungeon - Bullet Kin_111
+  - first:
+      213: -1678986729248659962
+    second: PC Computer - Enter the Gungeon - Bullet Kin_112
+  - first:
+      213: 1658901189091067179
+    second: PC Computer - Enter the Gungeon - Bullet Kin_113
+  - first:
+      213: 2289639160575163734
+    second: PC Computer - Enter the Gungeon - Bullet Kin_114
+  - first:
+      213: -4988057865466000592
+    second: PC Computer - Enter the Gungeon - Bullet Kin_115
+  - first:
+      213: 6959003972631020770
+    second: PC Computer - Enter the Gungeon - Bullet Kin_116
+  - first:
+      213: 5311458991892380272
+    second: PC Computer - Enter the Gungeon - Bullet Kin_117
+  - first:
+      213: 1856287731463013930
+    second: PC Computer - Enter the Gungeon - Bullet Kin_118
+  - first:
+      213: 5410500090777856431
+    second: PC Computer - Enter the Gungeon - Bullet Kin_119
+  - first:
+      213: -4774650003535104185
+    second: PC Computer - Enter the Gungeon - Bullet Kin_120
+  - first:
+      213: -2508162853628486420
+    second: PC Computer - Enter the Gungeon - Bullet Kin_121
+  - first:
+      213: 3768282457183502804
+    second: PC Computer - Enter the Gungeon - Bullet Kin_122
+  - first:
+      213: -8896171171037792778
+    second: PC Computer - Enter the Gungeon - Bullet Kin_123
+  - first:
+      213: -6108744793743484762
+    second: PC Computer - Enter the Gungeon - Bullet Kin_124
+  - first:
+      213: -1798134947823211432
+    second: PC Computer - Enter the Gungeon - Bullet Kin_125
+  - first:
+      213: -5993191228675873173
+    second: PC Computer - Enter the Gungeon - Bullet Kin_126
+  - first:
+      213: -1984578136434208907
+    second: PC Computer - Enter the Gungeon - Bullet Kin_127
+  - first:
+      213: -2598129547240463443
+    second: PC Computer - Enter the Gungeon - Bullet Kin_128
+  - first:
+      213: -500599459293476198
+    second: PC Computer - Enter the Gungeon - Bullet Kin_129
+  - first:
+      213: 2561933858387154747
+    second: PC Computer - Enter the Gungeon - Bullet Kin_130
+  - first:
+      213: 4471888003217370620
+    second: PC Computer - Enter the Gungeon - Bullet Kin_131
+  - first:
+      213: 7158980997081301037
+    second: PC Computer - Enter the Gungeon - Bullet Kin_132
+  - first:
+      213: 7707921865693894624
+    second: PC Computer - Enter the Gungeon - Bullet Kin_133
+  - first:
+      213: 8059033378608831897
+    second: PC Computer - Enter the Gungeon - Bullet Kin_134
+  - first:
+      213: -8145012254111625349
+    second: PC Computer - Enter the Gungeon - Bullet Kin_135
+  - first:
+      213: 6904683485932408267
+    second: PC Computer - Enter the Gungeon - Bullet Kin_136
+  - first:
+      213: 6899826215074955717
+    second: PC Computer - Enter the Gungeon - Bullet Kin_137
+  - first:
+      213: 5864849578449609369
+    second: PC Computer - Enter the Gungeon - Bullet Kin_138
+  - first:
+      213: -3833089373341003056
+    second: PC Computer - Enter the Gungeon - Bullet Kin_139
+  - first:
+      213: 954901095581114982
+    second: PC Computer - Enter the Gungeon - Bullet Kin_140
+  - first:
+      213: 4289910423030392432
+    second: PC Computer - Enter the Gungeon - Bullet Kin_141
+  - first:
+      213: 2067398078386889335
+    second: PC Computer - Enter the Gungeon - Bullet Kin_142
+  - first:
+      213: -1129368470452396254
+    second: PC Computer - Enter the Gungeon - Bullet Kin_143
+  - first:
+      213: 2206221101616014752
+    second: PC Computer - Enter the Gungeon - Bullet Kin_144
+  - first:
+      213: -2526745082086941327
+    second: PC Computer - Enter the Gungeon - Bullet Kin_145
+  - first:
+      213: -1844237988445056901
+    second: PC Computer - Enter the Gungeon - Bullet Kin_146
+  - first:
+      213: -1104238012524115256
+    second: PC Computer - Enter the Gungeon - Bullet Kin_147
+  - first:
+      213: 1963648775717077044
+    second: PC Computer - Enter the Gungeon - Bullet Kin_148
+  - first:
+      213: 5552653332605876622
+    second: PC Computer - Enter the Gungeon - Bullet Kin_149
+  - first:
+      213: 8536186280009523900
+    second: PC Computer - Enter the Gungeon - Bullet Kin_150
+  - first:
+      213: 4009523108116166848
+    second: PC Computer - Enter the Gungeon - Bullet Kin_151
+  - first:
+      213: 8544989757513154343
+    second: PC Computer - Enter the Gungeon - Bullet Kin_152
+  - first:
+      213: 7250989693673187102
+    second: PC Computer - Enter the Gungeon - Bullet Kin_153
+  - first:
+      213: 8721176687611426080
+    second: PC Computer - Enter the Gungeon - Bullet Kin_154
+  - first:
+      213: 3068512319282480390
+    second: PC Computer - Enter the Gungeon - Bullet Kin_155
+  - first:
+      213: 672558124716729303
+    second: PC Computer - Enter the Gungeon - Bullet Kin_156
+  - first:
+      213: 4329512257447938550
+    second: PC Computer - Enter the Gungeon - Bullet Kin_157
+  - first:
+      213: -8819456829828276085
+    second: PC Computer - Enter the Gungeon - Bullet Kin_158
+  - first:
+      213: 8281785606003349756
+    second: PC Computer - Enter the Gungeon - Bullet Kin_159
+  - first:
+      213: -6607050063541679728
+    second: PC Computer - Enter the Gungeon - Bullet Kin_160
+  - first:
+      213: 4757217951492959684
+    second: PC Computer - Enter the Gungeon - Bullet Kin_161
+  - first:
+      213: 1912135667210464520
+    second: PC Computer - Enter the Gungeon - Bullet Kin_162
+  - first:
+      213: -2146222908603175346
+    second: PC Computer - Enter the Gungeon - Bullet Kin_163
+  - first:
+      213: 1423097333063197626
+    second: PC Computer - Enter the Gungeon - Bullet Kin_164
+  - first:
+      213: 4993963575129875942
+    second: PC Computer - Enter the Gungeon - Bullet Kin_165
+  - first:
+      213: -3419614247154138215
+    second: PC Computer - Enter the Gungeon - Bullet Kin_166
+  - first:
+      213: 6031559784563679954
+    second: PC Computer - Enter the Gungeon - Bullet Kin_167
+  - first:
+      213: -1442667669023477042
+    second: PC Computer - Enter the Gungeon - Bullet Kin_168
+  - first:
+      213: -4155440628691943075
+    second: PC Computer - Enter the Gungeon - Bullet Kin_169
+  - first:
+      213: 1067458125326116600
+    second: PC Computer - Enter the Gungeon - Bullet Kin_170
+  - first:
+      213: -4372858595055355565
+    second: PC Computer - Enter the Gungeon - Bullet Kin_171
+  - first:
+      213: 235306528900200259
+    second: PC Computer - Enter the Gungeon - Bullet Kin_172
+  - first:
+      213: 4701919988110559334
+    second: PC Computer - Enter the Gungeon - Bullet Kin_173
+  - first:
+      213: 7782856792586388855
+    second: PC Computer - Enter the Gungeon - Bullet Kin_174
+  - first:
+      213: 3459946260465056038
+    second: PC Computer - Enter the Gungeon - Bullet Kin_175
+  - first:
+      213: -5283726618812764634
+    second: PC Computer - Enter the Gungeon - Bullet Kin_176
+  - first:
+      213: 3224912379641098097
+    second: PC Computer - Enter the Gungeon - Bullet Kin_177
+  - first:
+      213: 126721054686184741
+    second: PC Computer - Enter the Gungeon - Bullet Kin_178
+  - first:
+      213: -7653607693931593854
+    second: PC Computer - Enter the Gungeon - Bullet Kin_179
+  - first:
+      213: -4023191264814245799
+    second: PC Computer - Enter the Gungeon - Bullet Kin_180
+  - first:
+      213: 4765336685494528712
+    second: PC Computer - Enter the Gungeon - Bullet Kin_181
+  - first:
+      213: -940314193822694248
+    second: PC Computer - Enter the Gungeon - Bullet Kin_182
+  - first:
+      213: 5727748181931099723
+    second: PC Computer - Enter the Gungeon - Bullet Kin_183
+  - first:
+      213: -8198369396629831857
+    second: PC Computer - Enter the Gungeon - Bullet Kin_184
+  - first:
+      213: -3064224353204271691
+    second: PC Computer - Enter the Gungeon - Bullet Kin_185
+  - first:
+      213: -9192437356383161002
+    second: PC Computer - Enter the Gungeon - Bullet Kin_186
+  - first:
+      213: -7227049332516447765
+    second: PC Computer - Enter the Gungeon - Bullet Kin_187
+  - first:
+      213: 3789756360092400836
+    second: PC Computer - Enter the Gungeon - Bullet Kin_188
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 447
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a352c071d6fb99e40800000000000000
+      internalID: 5663768481654121786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 447
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bdb2c40d52d76f0800000000000000
+      internalID: -685349991729079519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 447
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55541183fa984e8a0800000000000000
+      internalID: -6276740594994690731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 447
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdae0ec62429c4e0800000000000000
+      internalID: -1960996413658714637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 447
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b586bbe2d11e312e0800000000000000
+      internalID: -2156132281126000549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 447
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f23a2a50c7294310800000000000000
+      internalID: 1389685667120427767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 421
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d778296e46f3a160800000000000000
+      internalID: 7035737859514988500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 421
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222822a3b613eaa30800000000000000
+      internalID: 4228371436754076194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 421
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c2efc06134a4a60800000000000000
+      internalID: 7659007878283275290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 421
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf9e34d3b29d7360800000000000000
+      internalID: 7169047482901372869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 421
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8fa2e2e74b7c700800000000000000
+      internalID: 560615132664363236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 421
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0848fa73d576c40e0800000000000000
+      internalID: -2284337260919815040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db6a6fe3d792390800000000000000
+      internalID: -7842599566709441219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 410
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4786481024443c0800000000000000
+      internalID: -4376300363613440859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 410
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cc3748581eba690800000000000000
+      internalID: -7589724783433757597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 410
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505886a0756f9c380800000000000000
+      internalID: -8950351930724940539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dd9467f453f8a10800000000000000
+      internalID: 1913806982058990874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 384
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ddea09964355f50800000000000000
+      internalID: 6869454434627149177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 384
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65432c794e5c900800000000000000
+      internalID: 704220257202755299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 384
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf8d74df6be9c810800000000000000
+      internalID: 1786217592768008119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597fba856ecf6c470800000000000000
+      internalID: 8414691020048693141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f58226e853cf17c0800000000000000
+      internalID: -4098342349298301453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 357
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2b7a6a45c5d1800800000000000000
+      internalID: 584725045271048870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 357
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee644fc30833090800000000000000
+      internalID: -8055954309151003128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 357
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148eb37d7c1b0b680800000000000000
+      internalID: -8741291404858496959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 357
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0ae6f1520d91300800000000000000
+      internalID: 223438514391261349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 357
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335cc08763cc91f70800000000000000
+      internalID: 9158575851549017395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 357
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883fc9aa18b076ac0800000000000000
+      internalID: -3862105503905811576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc678650b27604e40800000000000000
+      internalID: 5638620167939847883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7fcac5abd3bd650800000000000000
+      internalID: 6258663977789487043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878a61ae9b48bd70800000000000000
+      internalID: 9059073795140781956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964b394001bf488b0800000000000000
+      internalID: -5150716027590167447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 330
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b00ea1c84f60520800000000000000
+      internalID: 2668088711847086968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be3fbf7124908f0800000000000000
+      internalID: -573854806734279826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02925ed0574c752e0800000000000000
+      internalID: -2137023491140671200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11554aa3637c5c450800000000000000
+      internalID: 6108507505323955473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 330
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7d34473c5c92ed0800000000000000
+      internalID: -2438200279984515162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d38879817b8544b0800000000000000
+      internalID: -5456802053735545901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cef81616075dc30800000000000000
+      internalID: 4383533375866006596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16434979f66f4130800000000000000
+      internalID: 3553171852685952540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 318
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62efa137d1fe5080800000000000000
+      internalID: -9196647482490101138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 318
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1bbbff608d60cd0800000000000000
+      internalID: -2592147010933247564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 316
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c629f16104d950800000000000000
+      internalID: 6472800084741768536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b99b4f8b66865850800000000000000
+      internalID: 6365422919858493875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d39ea4888883fdb0800000000000000
+      internalID: -4759310261277518893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80dec422300bffc0800000000000000
+      internalID: -3460171673338195825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 318
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fb371565782ef50800000000000000
+      internalID: 6909233583143239482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 316
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c18e7a5637001260800000000000000
+      internalID: 7066155745372176841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8896f71b7861c0800000000000000
+      internalID: -4510219683959895041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 316
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b00db53241f4c00800000000000000
+      internalID: 886949793712048958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13087d656c006440800000000000000
+      internalID: 4926951622111134490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 318
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852bcb1ac5cff5900800000000000000
+      internalID: 675535943909552728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 318
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff86ac0e1187123c0800000000000000
+      internalID: -4386092543901013761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff269714da5aca00800000000000000
+      internalID: 777533752650117107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17219895c17a8e930800000000000000
+      internalID: 4172768794961842801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d169e7f00aa4f040800000000000000
+      internalID: 4680552833880777169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b85f68b6298951b0800000000000000
+      internalID: -5667347856672991053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e957e609b1b0d40800000000000000
+      internalID: 5551561272806710821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 290
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f57ee0a1311ab90800000000000000
+      internalID: -7232478523940184286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 290
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268939918cc498cc0800000000000000
+      internalID: -3708348395856619422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 290
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794c43e066908d860800000000000000
+      internalID: 7554798708843660439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 290
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f440211ed05025f80800000000000000
+      internalID: -8119421621026814897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 290
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5481e452b7a61a0800000000000000
+      internalID: -6815499685917604423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 290
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988e81cce870e8860800000000000000
+      internalID: 7533967536528353417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 290
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ea86da5507dd00800000000000000
+      internalID: 997271730190476770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 290
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648746a1500eea770800000000000000
+      internalID: 8624076648983328838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310155fcac2c221d0800000000000000
+      internalID: -3376922594256809965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 263
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b583d1fcb3119eec0800000000000000
+      internalID: -3537277083747272613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca96307b22305340800000000000000
+      internalID: 4850431960825633473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 263
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da5978f7fa71b70800000000000000
+      internalID: 8869750953399921974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 263
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363e40f3198bf7f0800000000000000
+      internalID: -577717408457935297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 263
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d207bb039fa003e90800000000000000
+      internalID: -7048121351454101459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 251
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfc118aaab00de30800000000000000
+      internalID: 4526130453099433942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 251
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea99e820b14fc5fb0800000000000000
+      internalID: -4657579517763741266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 251
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0dfd6a285fc93e0800000000000000
+      internalID: -2045490189238808412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede90f8ed20221c90800000000000000
+      internalID: -7200657472658301218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 225
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a323c4134d6690800000000000000
+      internalID: -7607350439106600146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 225
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6a0ad00405ee40800000000000000
+      internalID: 5684954506329747289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_78
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 225
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d13f11b6dd7e26e0800000000000000
+      internalID: -1860411235009351215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_79
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 225
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d158ed7961371caa0800000000000000
+      internalID: -6142501875882228451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f3e22005c03fe0800000000000000
+      internalID: -1211251695386626782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 214
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8006aa8211a76e0800000000000000
+      internalID: -1839138631472641841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 185
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d1f1b41d41b430800000000000000
+      internalID: 3796900712130140521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_83
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 185
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0507638231adf6d0800000000000000
+      internalID: -2955028542160173810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_84
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 185
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be20ea2b4018d440800000000000000
+      internalID: 4960732904576528055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b394578b9d357b0800000000000000
+      internalID: -5236602555436811378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f609e9118c67bd0800000000000000
+      internalID: -2632696954151211157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_87
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b21442fb1f74bf0800000000000000
+      internalID: -340037443593884891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_88
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6641f1f478dbb040800000000000000
+      internalID: 4664559835859207791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_89
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3369b78c03d20c0800000000000000
+      internalID: -4598966006850374705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4535304cb7eca0800000000000000
+      internalID: -5987610195609170873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_91
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689b77cbbde70e560800000000000000
+      internalID: 7341006874838808966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_92
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 185
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d7ce57153706b60800000000000000
+      internalID: 7737310953530490131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf6c415e215de0d0800000000000000
+      internalID: -3391965684965806141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae4a6351f5d0570800000000000000
+      internalID: 8434502221850536610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_95
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f210bb418f291c0800000000000000
+      internalID: -4498260309869252789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_96
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab740e5e494cc570800000000000000
+      internalID: 8488239998620171174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc89dbb433fb5d80800000000000000
+      internalID: -8260741683665597239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_98
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa5d899560e855b0800000000000000
+      internalID: -5379303027921560838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f671e77af9492c850800000000000000
+      internalID: 6395837834250295151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_100
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4153e2d9ae8c4c0800000000000000
+      internalID: -4266902686127549223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d11ac4bb64fce0f0800000000000000
+      internalID: -1086224666671312428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_102
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e3a203200564a0800000000000000
+      internalID: -6600869528473443395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0cfa8c8057deef0800000000000000
+      internalID: -77276938008280886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bdf9ae92a3075d0800000000000000
+      internalID: -3066887394534892768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_105
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305087255949d1b0800000000000000
+      internalID: -5631389228966326211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_106
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d88fab8212563640800000000000000
+      internalID: 5059321471003756760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_107
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 173
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750713a7a7eb8db0800000000000000
+      internalID: -4788479071596640898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_108
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac2a307c2945400800000000000000
+      internalID: 312035657652554271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_109
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 173
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac3fbf8344c1eeb0800000000000000
+      internalID: -4692253542289818457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397c00f8b715ec20800000000000000
+      internalID: 3235017990404340029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_111
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89372632f25fbcb20800000000000000
+      internalID: 3155885546709087128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 146
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606e984277a03b8e0800000000000000
+      internalID: -1678986729248659962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_113
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 146
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250f3d97d9950710800000000000000
+      internalID: 1658901189091067179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_114
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df7ed7fae66cf10800000000000000
+      internalID: 2289639160575163734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 146
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b4ec99ccbd6cab0800000000000000
+      internalID: -4988057865466000592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_116
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 146
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e444332e39539060800000000000000
+      internalID: 6959003972631020770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_117
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 146
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07abcc2dfc716b940800000000000000
+      internalID: 5311458991892380272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_118
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 146
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26c4c25bdbd2c910800000000000000
+      internalID: 1856287731463013930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_119
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 146
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa96800aa25f51b40800000000000000
+      internalID: 5410500090777856431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 121
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f8747e190dbdb0800000000000000
+      internalID: -4774650003535104185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd4a66c27313dd0800000000000000
+      internalID: -2508162853628486420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_122
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d142c9fde0ab4430800000000000000
+      internalID: 3768282457183502804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_123
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5b83134737a8480800000000000000
+      internalID: -8896171171037792778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_124
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81761c9f0693ba0800000000000000
+      internalID: -6108744793743484762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c28c8bacdbb07e0800000000000000
+      internalID: -1798134947823211432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_126
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a9cfa458e3dca0800000000000000
+      internalID: -5993191228675873173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_127
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f05dc13bc5574e0800000000000000
+      internalID: -1984578136434208907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_128
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3294831f691fbd0800000000000000
+      internalID: -2598129547240463443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_129
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a4f0ea1738d09f0800000000000000
+      internalID: -500599459293476198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_130
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37563f3541dd8320800000000000000
+      internalID: 2561933858387154747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd2a1322765f0e30800000000000000
+      internalID: 4471888003217370620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_132
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d208dc4794fc95360800000000000000
+      internalID: 7158980997081301037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_133
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e79629391a08fa60800000000000000
+      internalID: 7707921865693894624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_134
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ddef4c82077df60800000000000000
+      internalID: 8059033378608831897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_135
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 97
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f097e428a17fe80800000000000000
+      internalID: -8145012254111625349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc1814c0d52df50800000000000000
+      internalID: 6904683485932408267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_137
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c18871c26b11cf50800000000000000
+      internalID: 6899826215074955717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_138
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a6984e91246150800000000000000
+      internalID: 5864849578449609369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_139
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d25fa506812ecac0800000000000000
+      internalID: -3833089373341003056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_140
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 74
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6626eb5bc7d704d00800000000000000
+      internalID: 954901095581114982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_141
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 74
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076e8f20dc2d88b30800000000000000
+      internalID: 4289910423030392432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_142
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 74
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726397499fd0bc10800000000000000
+      internalID: 2067398078386889335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_143
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 74
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f982a1c5da350f0800000000000000
+      internalID: -1129368470452396254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 51
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a52bc127621e9e10800000000000000
+      internalID: 2206221101616014752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_145
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1e303cb23fecd0800000000000000
+      internalID: -2526745082086941327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_146
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7093791253f766e0800000000000000
+      internalID: -1844237988445056901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_147
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca440cc065fca0f0800000000000000
+      internalID: -1104238012524115256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_148
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4304f3c5828404b10800000000000000
+      internalID: 1963648775717077044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_149
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89bcda69ccfe0d40800000000000000
+      internalID: 5552653332605876622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_150
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e78ce130a67670800000000000000
+      internalID: 8536186280009523900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_151
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 38
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8fbf10600b4a730800000000000000
+      internalID: 4009523108116166848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_152
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3ce149e6e59670800000000000000
+      internalID: 8544989757513154343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_153
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17a86185b0b0a460800000000000000
+      internalID: 7250989693673187102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_154
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0253f789df7d70970800000000000000
+      internalID: 8721176687611426080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_155
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6050ebb52bb859a20800000000000000
+      internalID: 3068512319282480390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32b821d08655900800000000000000
+      internalID: 672558124716729303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_157
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f942eb9574851c30800000000000000
+      internalID: 4329512257447938550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_158
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b806132adbefa9580800000000000000
+      internalID: -8819456829828276085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d5cf3120dee270800000000000000
+      internalID: 8281785606003349756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_160
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099406d09fa0f44a0800000000000000
+      internalID: -6607050063541679728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_161
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd69d5a588050240800000000000000
+      internalID: 4757217951492959684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_162
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d2f662245498a10800000000000000
+      internalID: 1912135667210464520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_163
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ee6e3c2a51732e0800000000000000
+      internalID: -2146222908603175346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_164
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3a90a0c7bdfb310800000000000000
+      internalID: 1423097333063197626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_165
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52bd4996f1e4540800000000000000
+      internalID: 4993963575129875942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_166
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9934389c5f61b80d0800000000000000
+      internalID: -3419614247154138215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_167
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d22370eaa764b350800000000000000
+      internalID: 6031559784563679954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_168
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec23aea066d9afbe0800000000000000
+      internalID: -1442667669023477042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d514791c3c8e456c0800000000000000
+      internalID: -4155440628691943075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_170
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6eaa4628f50de00800000000000000
+      internalID: 1067458125326116600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_171
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35936b4b64c7053c0800000000000000
+      internalID: -4372858595055355565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_172
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3473d649a0af34300800000000000000
+      internalID: 235306528900200259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_173
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66883ad3153904140800000000000000
+      internalID: 4701919988110559334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_174
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77509db7403420c60800000000000000
+      internalID: 7782856792586388855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_175
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629f5f4dac2340030800000000000000
+      internalID: 3459946260465056038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_176
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea36372ae6ca6b0800000000000000
+      internalID: -5283726618812764634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_177
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f644419b031cc20800000000000000
+      internalID: 3224912379641098097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_178
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 8
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525022ab02432c100800000000000000
+      internalID: 126721054686184741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_179
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fb2095a5ce8c590800000000000000
+      internalID: -7653607693931593854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_180
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958da454cd0ca28c0800000000000000
+      internalID: -4023191264814245799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_181
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae906b770e12240800000000000000
+      internalID: 4765336685494528712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_182
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c0f3093553f2f0800000000000000
+      internalID: -940314193822694248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_183
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4684e2ef9c0d7f40800000000000000
+      internalID: 5727748181931099723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_184
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff178787a893e80800000000000000
+      internalID: -8198369396629831857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_185
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5882b8f20b975d0800000000000000
+      internalID: -3064224353204271691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_186
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65530c09de6ed6080800000000000000
+      internalID: -9192437356383161002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_187
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be912213cec54bb90800000000000000
+      internalID: -7227049332516447765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bullet Kin_188
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb59c945be79430800000000000000
+      internalID: 3789756360092400836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

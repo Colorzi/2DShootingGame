@@ -1,0 +1,4771 @@
+fileFormatVersion: 2
+guid: ca9b6a3e4c992174d902ff41a63cd087
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 914935283544062892
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_0
+  - first:
+      213: 34889497608510354
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_1
+  - first:
+      213: 5629129804453982567
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_2
+  - first:
+      213: 1549580586677418491
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_3
+  - first:
+      213: 3684839226683931852
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_4
+  - first:
+      213: -4902289586650457463
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_5
+  - first:
+      213: -6981571829653161281
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_6
+  - first:
+      213: -4111246597412428874
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_7
+  - first:
+      213: -7313363644735842918
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_8
+  - first:
+      213: 1668020229452494595
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_9
+  - first:
+      213: -7729997180976219676
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_10
+  - first:
+      213: -2341105947687626833
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_11
+  - first:
+      213: 1424620284920210508
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_12
+  - first:
+      213: -5605496112504894462
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_13
+  - first:
+      213: -7074575021257599264
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_14
+  - first:
+      213: 3478534930973272147
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_15
+  - first:
+      213: -5542696404023447560
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_16
+  - first:
+      213: 3823076308623221918
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_17
+  - first:
+      213: 6109909049507389560
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_18
+  - first:
+      213: 3457294181631957850
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_19
+  - first:
+      213: 9209401382234197646
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_20
+  - first:
+      213: 6126507972123273436
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_21
+  - first:
+      213: 4999320985663258241
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_22
+  - first:
+      213: 2650071789899889923
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_23
+  - first:
+      213: -5524205191088573106
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_24
+  - first:
+      213: -2501777865707952458
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_25
+  - first:
+      213: 8712760957243899740
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_26
+  - first:
+      213: -568006746784576474
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_27
+  - first:
+      213: 8353933377796993624
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_28
+  - first:
+      213: 4226555918974296197
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_29
+  - first:
+      213: 3357359133802245572
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_30
+  - first:
+      213: 8585458182649117670
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_31
+  - first:
+      213: 3622861500136262262
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_32
+  - first:
+      213: -8584914925805419493
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_33
+  - first:
+      213: 1176939982011659492
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_34
+  - first:
+      213: 8855048979715228819
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_35
+  - first:
+      213: -4355268295473457561
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_36
+  - first:
+      213: 8177745146441732870
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_37
+  - first:
+      213: -6649042858527067668
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_38
+  - first:
+      213: -3548147193845363752
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_39
+  - first:
+      213: -6890829788693320596
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_40
+  - first:
+      213: 8128920357371686666
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_41
+  - first:
+      213: 361466695698949953
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_42
+  - first:
+      213: 5930922105447001733
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_43
+  - first:
+      213: 2703615702214939632
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_44
+  - first:
+      213: -8021840544310059862
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_45
+  - first:
+      213: 1156320135157334165
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_46
+  - first:
+      213: 1942990555861345109
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_47
+  - first:
+      213: 6198942700651915785
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_48
+  - first:
+      213: 7905337738060502143
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_49
+  - first:
+      213: 1461377049488176178
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_50
+  - first:
+      213: -3891182890716544676
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_51
+  - first:
+      213: 675066850790138059
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_52
+  - first:
+      213: -4980710614180317687
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_53
+  - first:
+      213: 2588960195722499789
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_54
+  - first:
+      213: -409360817623901894
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_55
+  - first:
+      213: -2509631862551965644
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_56
+  - first:
+      213: 7204891224067820273
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_57
+  - first:
+      213: 4278629376655972488
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_58
+  - first:
+      213: -4988132027596579155
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_59
+  - first:
+      213: 9156356382966735095
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_60
+  - first:
+      213: -7065364883572199148
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_61
+  - first:
+      213: 4647138947734277484
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_62
+  - first:
+      213: -4634808574270369095
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_63
+  - first:
+      213: -4040470954705017500
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_64
+  - first:
+      213: 8649841232239682803
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_65
+  - first:
+      213: -6909442414554830416
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_66
+  - first:
+      213: -480675576491632700
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_67
+  - first:
+      213: 2990359092304888875
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_68
+  - first:
+      213: -9207446311879489668
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_69
+  - first:
+      213: -1434920289749526278
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_70
+  - first:
+      213: 3172742904207470481
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_71
+  - first:
+      213: 1393919197404526832
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_72
+  - first:
+      213: 3726119459416314071
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_73
+  - first:
+      213: -7551762943681378347
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_74
+  - first:
+      213: -2873440765093050662
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_75
+  - first:
+      213: 8763863276840705068
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_76
+  - first:
+      213: 5952685270033052986
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_77
+  - first:
+      213: -1993429508117011633
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_78
+  - first:
+      213: -4207608757215796515
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_79
+  - first:
+      213: 2254841000868689320
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_80
+  - first:
+      213: -261855349497717255
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_81
+  - first:
+      213: 3366641957430330011
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_82
+  - first:
+      213: 5909459751826627156
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_83
+  - first:
+      213: -7354236974571170552
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_84
+  - first:
+      213: -8643320659057992860
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_85
+  - first:
+      213: -5909993187229385271
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_86
+  - first:
+      213: -9069097029600261543
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_87
+  - first:
+      213: -8675870951867397985
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_88
+  - first:
+      213: 1609359718834173918
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_89
+  - first:
+      213: -3265187198495554495
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_90
+  - first:
+      213: -7984777590523982424
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_91
+  - first:
+      213: 6307704177647160480
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_92
+  - first:
+      213: -7536788614583297799
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_93
+  - first:
+      213: 5729510275009833974
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_94
+  - first:
+      213: -6096601415964635394
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_95
+  - first:
+      213: -2505028729627393445
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_96
+  - first:
+      213: -5107847777875383806
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_97
+  - first:
+      213: -2536729520730801617
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_98
+  - first:
+      213: 8472362336780644123
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_99
+  - first:
+      213: -5119070241223430847
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_100
+  - first:
+      213: 4870896171717115960
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_101
+  - first:
+      213: -1995790835594201788
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_102
+  - first:
+      213: -8588477920402434152
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_103
+  - first:
+      213: -6344651295506279091
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_104
+  - first:
+      213: 3087955255960873429
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_105
+  - first:
+      213: -9041262709968058412
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_106
+  - first:
+      213: -2276758461796322694
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_107
+  - first:
+      213: -7207505625979928413
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_108
+  - first:
+      213: 1907323033271927925
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_109
+  - first:
+      213: 5271190967571095840
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_110
+  - first:
+      213: 6331275839101804633
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_111
+  - first:
+      213: 529822015567218484
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_112
+  - first:
+      213: 4917803093467815051
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_113
+  - first:
+      213: 1273389770967182459
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_114
+  - first:
+      213: -4503046704686375229
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_115
+  - first:
+      213: 7183094420607176022
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_116
+  - first:
+      213: -2363615742210849622
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_117
+  - first:
+      213: -2268016307433889820
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_118
+  - first:
+      213: 1820829370470749461
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_119
+  - first:
+      213: 5870378398646537542
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_120
+  - first:
+      213: 6059538603340991707
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_121
+  - first:
+      213: -2432010617292209425
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_122
+  - first:
+      213: -7316961398264686919
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_123
+  - first:
+      213: 7820513987568101241
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_124
+  - first:
+      213: 4287046216950246996
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_125
+  - first:
+      213: -1936776558718876001
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_126
+  - first:
+      213: -5784266083387517213
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_127
+  - first:
+      213: -116380505187100584
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_128
+  - first:
+      213: -8194997095767511411
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_129
+  - first:
+      213: -6095124331519852174
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_130
+  - first:
+      213: 3446987968331297723
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_131
+  - first:
+      213: -6636499140833542459
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_132
+  - first:
+      213: 312956655968845045
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_133
+  - first:
+      213: -3676082191646062492
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_134
+  - first:
+      213: -9105941532810238404
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_135
+  - first:
+      213: 989171280164915986
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_136
+  - first:
+      213: 4813656880623501221
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_137
+  - first:
+      213: 66481619856290348
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_138
+  - first:
+      213: -600586132364282064
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_139
+  - first:
+      213: -3941974312540564904
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_140
+  - first:
+      213: -1972929155882544588
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_141
+  - first:
+      213: 7463652978121432679
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_142
+  - first:
+      213: -3788471214089536067
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_143
+  - first:
+      213: -143467030609200255
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_144
+  - first:
+      213: 656679426363760525
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_145
+  - first:
+      213: 5542136790343578061
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_146
+  - first:
+      213: -1380985494465349961
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_147
+  - first:
+      213: 274243668778089277
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_148
+  - first:
+      213: 1591492277687175081
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_149
+  - first:
+      213: 1548726536457122823
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_150
+  - first:
+      213: 4560072412543027492
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_151
+  - first:
+      213: -7219200116524036917
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_152
+  - first:
+      213: 1191797263674851229
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_153
+  - first:
+      213: -4796918104648656736
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_154
+  - first:
+      213: -4913664843414923977
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_155
+  - first:
+      213: -9002475359177348315
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_156
+  - first:
+      213: -3593516504791470256
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_157
+  - first:
+      213: 3759354525807316303
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_158
+  - first:
+      213: 5257302899037664854
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_159
+  - first:
+      213: 729203484572505437
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_160
+  - first:
+      213: -1504954327288912314
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_161
+  - first:
+      213: -859164781475114994
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_162
+  - first:
+      213: -8691089065304385404
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_163
+  - first:
+      213: 49489129483187276
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_164
+  - first:
+      213: 29673956046699220
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_165
+  - first:
+      213: -8233240267861637263
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_166
+  - first:
+      213: -7899503131076630452
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_167
+  - first:
+      213: -8830480157682628906
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_168
+  - first:
+      213: -5475638693003314670
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_169
+  - first:
+      213: -5403671454202497234
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_170
+  - first:
+      213: 2504109589495090185
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_171
+  - first:
+      213: 7152794891142719248
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_172
+  - first:
+      213: -3682643324245659231
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_173
+  - first:
+      213: 8236134065376088837
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_174
+  - first:
+      213: -7197290757304388790
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_175
+  - first:
+      213: -5404080016968966301
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_176
+  - first:
+      213: -593092490188468436
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_177
+  - first:
+      213: 4011910134244565939
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_178
+  - first:
+      213: 6435055674230335149
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_179
+  - first:
+      213: 1684200369343480710
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_180
+  - first:
+      213: 5679193267302340135
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_181
+  - first:
+      213: 1379466101763396452
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_182
+  - first:
+      213: -7346762629091661373
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_183
+  - first:
+      213: 7263827764053679711
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_184
+  - first:
+      213: -4410148102509611666
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_185
+  - first:
+      213: -5816296716277783754
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_186
+  - first:
+      213: -6407619022722697388
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_187
+  - first:
+      213: 5056084694625656040
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_188
+  - first:
+      213: 5336954672025675156
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_189
+  - first:
+      213: -5320269291224560145
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_190
+  - first:
+      213: 4857466458438065964
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_191
+  - first:
+      213: -1963638846959251788
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_192
+  - first:
+      213: 6999073749170444000
+    second: PC Computer - Enter the Gungeon - Bandana Bullet Kin_193
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 447
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab7d18fac082bc00800000000000000
+      internalID: 914935283544062892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 447
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd85f20d3fb7000800000000000000
+      internalID: 34889497608510354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 447
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7613b059bbfae1e40800000000000000
+      internalID: 5629129804453982567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 447
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9bfb36557318510800000000000000
+      internalID: 1549580586677418491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 447
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccbbe8e0cd232330800000000000000
+      internalID: 3684839226683931852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 447
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5a99289197fbb0800000000000000
+      internalID: -4902289586650457463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 421
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba36af29697c1f90800000000000000
+      internalID: -6981571829653161281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 421
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e231800be1f6c0800000000000000
+      internalID: -4111246597412428874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 421
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9593425386b18a90800000000000000
+      internalID: -7313363644735842918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 421
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077ea6af8ff52710800000000000000
+      internalID: 1668020229452494595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 421
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93429e48889b490800000000000000
+      internalID: -7729997180976219676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 421
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa756865b88b28fd0800000000000000
+      internalID: -2341105947687626833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c442c76e99445c310800000000000000
+      internalID: 1424620284920210508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 410
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c00502cf64532b0800000000000000
+      internalID: -5605496112504894462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 410
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d619308f02dd90800000000000000
+      internalID: -7074575021257599264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 410
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3582373f61d364030800000000000000
+      internalID: 3478534930973272147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe85cacf26413b0800000000000000
+      internalID: -5542696404023447560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 384
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94e2bca5ab4e0530800000000000000
+      internalID: 3823076308623221918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87025d9a8e1cac450800000000000000
+      internalID: 6109909049507389560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 384
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b923c9db6caff20800000000000000
+      internalID: 3457294181631957850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 384
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8f0e73cd5ecf70800000000000000
+      internalID: 9209401382234197646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a1008a8ab50550800000000000000
+      internalID: 6126507972123273436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 357
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e3d9ce2f7216540800000000000000
+      internalID: 4999320985663258241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 357
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d34429042f6c420800000000000000
+      internalID: 2650071789899889923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 357
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45fbcea5a41653b0800000000000000
+      internalID: -5524205191088573106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 357
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6ea8f3946e74dd0800000000000000
+      internalID: -2501777865707952458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 357
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f3a6dade1f9e870800000000000000
+      internalID: 8712760957243899740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 357
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c41eb8fd80e18f0800000000000000
+      internalID: -568006746784576474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8527ed465222fe370800000000000000
+      internalID: 8353933377796993624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580a9cd073eb7aa30800000000000000
+      internalID: 4226555918974296197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd22b9185cb79e20800000000000000
+      internalID: 3357359133802245572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb75cababca52770800000000000000
+      internalID: 8585458182649117670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 330
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a8f02f65df64230800000000000000
+      internalID: 3622861500136262262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b144b6c1c514cd880800000000000000
+      internalID: -8584914925805419493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e472cd8da4555010800000000000000
+      internalID: 1176939982011659492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948c98812473ea70800000000000000
+      internalID: 8855048979715228819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 330
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76698ca7f8afe83c0800000000000000
+      internalID: -4355268295473457561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603955512ef2d7170800000000000000
+      internalID: 8177745146441732870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce175219fbad9b3a0800000000000000
+      internalID: -6649042858527067668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db4c041de272cec0800000000000000
+      internalID: -3548147193845363752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 318
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c214df0dade50a0800000000000000
+      internalID: -6890829788693320596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 318
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa4940ff9bfc070800000000000000
+      internalID: 8128920357371686666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 316
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147254b6b00340500800000000000000
+      internalID: 361466695698949953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e2ea54b3ede4250800000000000000
+      internalID: 5930922105447001733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f390b3282c258520800000000000000
+      internalID: 2703615702214939632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac9297c682bca090800000000000000
+      internalID: -8021840544310059862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 318
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5904fa659031c0010800000000000000
+      internalID: 1156320135157334165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 316
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553ed0cbd93e6fa10800000000000000
+      internalID: 1942990555861345109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aab57fa81170650800000000000000
+      internalID: 6198942700651915785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 316
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74169ad9c665bd60800000000000000
+      internalID: 7905337738060502143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b6ad0faad74410800000000000000
+      internalID: 1461377049488176178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 318
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5143caf6cdbff9c0800000000000000
+      internalID: -3891182890716544676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 318
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ecf069b15e5900800000000000000
+      internalID: 675066850790138059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906b3c8d516f0eab0800000000000000
+      internalID: -4980710614180317687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65aa3c495dde320800000000000000
+      internalID: 2588960195722499789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3950985188a15af0800000000000000
+      internalID: -409360817623901894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430969b1e1ffb2dd0800000000000000
+      internalID: -2509631862551965644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa44e7256aecf360800000000000000
+      internalID: 7204891224067820273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 290
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885129bfbeb06b30800000000000000
+      internalID: 4278629376655972488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 290
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae5b52695896cab0800000000000000
+      internalID: -4988132027596579155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 290
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ec9b2e99e11f70800000000000000
+      internalID: 9156356382966735095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 290
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411f8228218c2fd90800000000000000
+      internalID: -7065364883572199148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 290
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d85995044fd7040800000000000000
+      internalID: 4647138947734277484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 290
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b21ea0782addafb0800000000000000
+      internalID: -4634808574270369095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 290
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652683f21d5de7c0800000000000000
+      internalID: -4040470954705017500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 290
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f46c2b95c86a0870800000000000000
+      internalID: 8649841232239682803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b921745bbabc10a0800000000000000
+      internalID: -6909442414554830416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 263
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c792032c1c4459f0800000000000000
+      internalID: -480675576491632700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2441b730c3ef7920800000000000000
+      internalID: 2990359092304888875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 263
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7741fbcc54983080800000000000000
+      internalID: -9207446311879489668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 263
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af89a785993261ce0800000000000000
+      internalID: -1434920289749526278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 263
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f6de88cd8d70c20800000000000000
+      internalID: 3172742904207470481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 251
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f4eeef12385310800000000000000
+      internalID: 1393919197404526832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 251
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01e2118e5d5b330800000000000000
+      internalID: 3726119459416314071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 251
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c9e91d9fb23790800000000000000
+      internalID: -7551762943681378347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6808929dc7f18d0800000000000000
+      internalID: -2873440765093050662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 225
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c5e24a73f7f9970800000000000000
+      internalID: 8763863276840705068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 225
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a353504e6bf2c9250800000000000000
+      internalID: 5952685270033052986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_78
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 225
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4367eb8c6ae554e0800000000000000
+      internalID: -1993429508117011633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_79
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 225
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26450d0229b95c0800000000000000
+      internalID: -4207608757215796515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b3c191fdca4f10800000000000000
+      internalID: 2254841000868689320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 214
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd17ae62f3bd5cf0800000000000000
+      internalID: -261855349497717255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_82
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 214
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928f86e507b8be20800000000000000
+      internalID: 3366641957430330011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a181aa55e920250800000000000000
+      internalID: 5909459751826627156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 214
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80554a0af6080f990800000000000000
+      internalID: -7354236974571170552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 212
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b9d05a7a1cc0880800000000000000
+      internalID: -8643320659057992860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 214
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdb63a328c7bfda0800000000000000
+      internalID: -5909993187229385271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 185
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a402d3d48142280800000000000000
+      internalID: -9069097029600261543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_88
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 185
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9840d4065d199780800000000000000
+      internalID: -8675870951867397985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 185
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7fee43328955610800000000000000
+      internalID: 1609359718834173918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_90
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144058cea89bfa2d0800000000000000
+      internalID: -3265187198495554495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad815a261f503190800000000000000
+      internalID: -7984777590523982424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_92
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac08e8a787798750800000000000000
+      internalID: 6307704177647160480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_93
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8dd88cfa2f76790800000000000000
+      internalID: -7536788614583297799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb69e62d3f438f40800000000000000
+      internalID: 5729510275009833974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_95
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec8483055846ba0800000000000000
+      internalID: -6096601415964635394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_96
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 185
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52496284a95c3dd0800000000000000
+      internalID: -2505028729627393445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_97
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 185
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a28f032874d19b0800000000000000
+      internalID: -5107847777875383806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_98
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 185
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af799e0f9bbccd0800000000000000
+      internalID: -2536729520730801617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f653428a0e39570800000000000000
+      internalID: 8472362336780644123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14daa93dcb865f8b0800000000000000
+      internalID: -5119070241223430847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_101
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8304205d246e89340800000000000000
+      internalID: 4870896171717115960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4457d662fc68d44e0800000000000000
+      internalID: -1995790835594201788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979029c5d89fc880800000000000000
+      internalID: -8588477920402434152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_104
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4550ab134543f7a0800000000000000
+      internalID: -6344651295506279091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_105
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d929d1d1fe9ada20800000000000000
+      internalID: 3087955255960873429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_106
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d74e5bc77bf68280800000000000000
+      internalID: -9041262709968058412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_107
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f345ed345760e0800000000000000
+      internalID: -2276758461796322694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_108
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a046d6f1dbc9fb90800000000000000
+      internalID: -7207505625979928413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_109
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574081e713c287a10800000000000000
+      internalID: 1907323033271927925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_110
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a25dc148072940800000000000000
+      internalID: 5271190967571095840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_111
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 173
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502da4c4d53dd750800000000000000
+      internalID: 6331275839101804633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437c018e05e4a5700800000000000000
+      internalID: 529822015567218484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_113
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 173
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c577d9bdb8f3440800000000000000
+      internalID: 4917803093467815051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_114
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c6d1fff3dfba110800000000000000
+      internalID: 1273389770967182459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_115
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cedc2851e6f181c0800000000000000
+      internalID: -4503046704686375229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 146
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d8160615a7fa360800000000000000
+      internalID: 7183094420607176022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_117
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 146
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa440046100c23fd0800000000000000
+      internalID: -2363615742210849622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_118
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef1c925f236680e0800000000000000
+      internalID: -2268016307433889820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_119
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 146
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515d18f4aa2e44910800000000000000
+      internalID: 1820829370470749461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_120
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 146
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d047c0d06c77150800000000000000
+      internalID: 5870378398646537542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_121
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 146
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc08e2414ec71450800000000000000
+      internalID: 6059538603340991707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_122
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 146
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2c15a9a33cf3ed0800000000000000
+      internalID: -2432010617292209425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_123
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 146
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6103d006ee47a90800000000000000
+      internalID: -7316961398264686919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_124
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 121
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97768fd690c088c60800000000000000
+      internalID: 7820513987568101241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_125
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e600112d5ae7b30800000000000000
+      internalID: 4287046216950246996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_126
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9602483bff2f15e0800000000000000
+      internalID: -1936776558718876001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_127
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d85db4a82abfa0800000000000000
+      internalID: -5784266083387517213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_128
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858da811c88826ef0800000000000000
+      internalID: -116380505187100584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_129
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e6b637f85854e80800000000000000
+      internalID: -8194997095767511411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_130
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2714bedb6b4c96ba0800000000000000
+      internalID: -6095124331519852174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_131
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3be655b4926df20800000000000000
+      internalID: 3446987968331297723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_132
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce7e6e613b66e3a0800000000000000
+      internalID: -6636499140833542459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_133
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcfd15ab68d75400800000000000000
+      internalID: 312956655968845045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_134
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680cc139beebfcc0800000000000000
+      internalID: -3676082191646062492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_135
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ae57db6231a180800000000000000
+      internalID: -9105941532810238404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_136
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b8f38d90e3abd00800000000000000
+      internalID: 989171280164915986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_137
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afbd28dd6b8dc240800000000000000
+      internalID: 4813656880623501221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_138
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2270a75ea03ce000800000000000000
+      internalID: 66481619856290348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_139
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037b66b381a4aa7f0800000000000000
+      internalID: -600586132364282064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_140
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 97
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8521e4b8f3b4b49c0800000000000000
+      internalID: -3941974312540564904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_141
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4321c90c26fbe94e0800000000000000
+      internalID: -1972929155882544588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_142
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed6b7e6d8349760800000000000000
+      internalID: 7463652978121432679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_143
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd7662c085ac6bc0800000000000000
+      internalID: -3788471214089536067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_144
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bfe8bee7d420ef0800000000000000
+      internalID: -143467030609200255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_145
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 74
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f18b3857efc1900800000000000000
+      internalID: 656679426363760525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_146
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 74
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc17d0d1c00a9ec40800000000000000
+      internalID: 5542136790343578061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_147
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 74
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6fc627201c5dce0800000000000000
+      internalID: -1380985494465349961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_148
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 74
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bfa6be92f4ec300800000000000000
+      internalID: 274243668778089277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_149
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 51
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a742526bcd161610800000000000000
+      internalID: 1591492277687175081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_150
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047fb3549e2e7510800000000000000
+      internalID: 1548726536457122823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_151
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4298fabe2b1a84f30800000000000000
+      internalID: 4560072412543027492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_152
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc40243ebf30db90800000000000000
+      internalID: -7219200116524036917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_153
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f3f910c4d1a8010800000000000000
+      internalID: 1191797263674851229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_154
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d6c3266ced6db0800000000000000
+      internalID: -4796918104648656736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_155
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7359deecbd72fcbb0800000000000000
+      internalID: -4913664843414923977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_156
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 38
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52be605ab58c01380800000000000000
+      internalID: -9002475359177348315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_157
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fa66537c3412ec0800000000000000
+      internalID: -3593516504791470256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_158
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8087f509eb2430800000000000000
+      internalID: 3759354525807316303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_159
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65675cdd121b5f840800000000000000
+      internalID: 5257302899037664854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_160
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55dbeaa4b6ae1a00800000000000000
+      internalID: 729203484572505437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646e1ce43045d1be0800000000000000
+      internalID: -1504954327288912314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_162
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0056acee22a314f0800000000000000
+      internalID: -859164781475114994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_163
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488104fda8c036780800000000000000
+      internalID: -8691089065304385404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b61fd912dfa000800000000000000
+      internalID: 49489129483187276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_165
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da7e394e4c696000800000000000000
+      internalID: 29673956046699220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_166
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774aa31997adbd80800000000000000
+      internalID: -8233240267861637263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_167
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48671271c35f5290800000000000000
+      internalID: -7899503131076630452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_168
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6013d1515d37580800000000000000
+      internalID: -8830480157682628906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_169
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a3721be9f9204b0800000000000000
+      internalID: -5475638693003314670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_170
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277759317d4205b0800000000000000
+      internalID: -5403671454202497234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_171
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c0180876260c220800000000000000
+      internalID: 2504109589495090185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_172
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0176acd6e05d34360800000000000000
+      internalID: 7152794891142719248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_173
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1bfd7786f94ecc0800000000000000
+      internalID: -3682643324245659231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035c39ab40ac4270800000000000000
+      internalID: 8236134065376088837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_175
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a437ba960361e1c90800000000000000
+      internalID: -7197290757304388790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_176
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f17ca4bd9d005b0800000000000000
+      internalID: -5404080016968966301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_177
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f4d53c589e4c7f0800000000000000
+      internalID: -593092490188468436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_178
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3ef66d20b2da730800000000000000
+      internalID: 4011910134244565939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_179
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da66c549a09ed4950800000000000000
+      internalID: 6435055674230335149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_180
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683cc49005b7f5710800000000000000
+      internalID: 1684200369343480710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_181
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726985cdf2c80de40800000000000000
+      internalID: 5679193267302340135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_182
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463dc4f5c19d42310800000000000000
+      internalID: 1379466101763396452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_183
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 8
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c960eb405e0b0a90800000000000000
+      internalID: -7346762629091661373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_184
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e1a02bddc4ec460800000000000000
+      internalID: 7263827764053679711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_185
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e653d0faaa10cc2c0800000000000000
+      internalID: -4410148102509611666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_186
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633edfdd3fc584fa0800000000000000
+      internalID: -5816296716277783754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_187
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f396a2709317a0800000000000000
+      internalID: -6407619022722697388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_188
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec9371dd32da2640800000000000000
+      internalID: 5056084694625656040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_189
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a3707ffba01a40800000000000000
+      internalID: 5336954672025675156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_190
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0423844b9a26b0800000000000000
+      internalID: -5320269291224560145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_191
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f539b0200396340800000000000000
+      internalID: 4857466458438065964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_192
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be06db5fd0cfb4e0800000000000000
+      internalID: -1963638846959251788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Bandana Bullet Kin_193
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d0100e74b12160800000000000000
+      internalID: 6999073749170444000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

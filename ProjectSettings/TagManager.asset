@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MiniMapCamera
+  - HpBarCanvas
+  - SpawnPoint
+  - Tile
+  - RoomTemplates
+  - FadeManager
+  - LRBT_Room
+  - GameOverUI
+  - Rifle
+  - Shotgun
+  - Pistol
+  - Fade_InOut
+  - BulletCountUI
+  - Rooms
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerBullet
+  - EnemyBullet
+  - Enemy
+  - Player
+  - Item
+  - Object
+  - MiniMap
+  - Room
+  - BossRoom
+  - Path
+  - Ground
+  - Enviroment
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
